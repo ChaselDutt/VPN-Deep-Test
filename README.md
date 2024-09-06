@@ -17,7 +17,7 @@
 | libcyber | ★★★★☆ | 大于100M宽带 | 低 | 待补充 | 待补充 | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | 灵魂云 | ★★★☆☆ | 大于100M宽带 | 中 | 待补充 | 待补充 | 中 | 12.9/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/4) |
 | 两元店 | ★★★☆☆ | 大于100M宽带 | 中 | 中转 | SS | 低 | 5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
-| 几鸡 | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 |
+| 几鸡 | 待补充 | 小于100M宽带 | 待补充 | 待补充 | 待补充 | 待补充 | 10/300G | 待补充 |
 
 **如果本项目对你有帮助请留个Star**
 
