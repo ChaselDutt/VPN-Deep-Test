@@ -6,7 +6,7 @@
 
 3、如果有好的机场可以提交Issues分享
 
-| 名称 | 评级 | 下载速度 | 延迟 | 类型 | 协议 | 稳定性 | 包月/流量 | 日志 |
+| 名称 | 评级 | 下载速度 | 延迟 | 类型 | 协议 | 稳定性 | 包月/流量 | 详细评价 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [顶级机场](https://顶级机场.com/#/register?code=AaEV8zCQ) | ★★★★★ | 大于100M宽带 | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net) | ★★★★☆ | 大于100M宽带 | 中 | 中转 | SS | 高 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
