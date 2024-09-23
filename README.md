@@ -19,9 +19,7 @@
 
 秉承开源精神共享好机场！项目地址：https://github.com/ChaselDutt/VPN-Deep-Test
 
-
-<br><br>
-
+<br>
 
 **9月16日 - 9月22日：**
 
@@ -30,6 +28,8 @@
 libcyber：9.22 群主提醒 福建、苏州、重庆、新疆等管控严格的地方，建议用 LibCyber Desktop。  
 
 cherry：9.18 开始有群友反应chatgpt不能用。  
+
+<br>
 
 **9月9日 - 9月15日：**
 
