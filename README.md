@@ -15,11 +15,19 @@
 | [两元店](https://xn--5hqx9equq.com/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
 | [几鸡](https://y.luxury/user/shop) | 待补充 | <100M | 待补充 | 待补充 | 待补充 | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
-**如果本项目对你有帮助请留个Star**
+**秉承开源精神共享好机场，如果本项目对你有帮助请留个Star！** 项目地址：https://github.com/ChaselDutt/VPN-Deep-Test
 
-秉承开源精神共享好机场！项目地址：https://github.com/ChaselDutt/VPN-Deep-Test
+以下为稳定性记录，相关问题已发在issues做存档<br>
 
-<br>
+**9月23日 - 9月30日：**
+
+两元店：
+9.26 21点22分开始有群友反馈故障，23点1分群主通知恢复
+9.24 早上7点30分左右群友陆续反馈故障，7点58分群主回复检查问题，9点46分群主通知恢复
+9.23 日下午两点半左右有好几个人反馈节点异常，群主回复：稍等一下，服务器状态正常，就是传输有点小问题，马上就恢复了
+
+灵魂云
+9.30 17点09分开始多人反馈节点故障
 
 **9月16日 - 9月22日：**
 
