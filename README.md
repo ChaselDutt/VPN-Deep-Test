@@ -6,6 +6,8 @@
 
 3、如果有好的机场可以提交Issues分享
 
+4、机场实在太多只好选择一些比较有特色的长期观察，比如便宜流量多的顶级机场、两元店，高速稳定但很贵的libcyber，又或者节点丰富的cherry
+
 | 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 包月/流量 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [顶级机场](https://xn--mes358a9urctx.com/#/register?code=AaEV8zCQ) | ★★★★★ | >100M | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
