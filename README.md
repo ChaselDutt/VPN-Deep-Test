@@ -19,7 +19,7 @@
 | [libcyber](https://baiducdn-global-ff363583-0efa-41be-9a77.lcinvite.top/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55&code=GNW6BW) | ★★★★☆ | >100M | 低 | 待补充 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [灵魂云](https://linghunyun.com/#/register?code=rsY0Y0Sj) | ★★★☆☆ | >100M | 中 | 中转 | Trojan | 中 | 12.9/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/4) |
 | [两元店](https://xn--5hqx9equq.com/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
-| [几鸡](https://y.luxury/user/shop) | 待补充 | <100M | 待补充 | 中转 | 待补充 | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
+| [几鸡](https://y.luxury/user/shop) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
 **秉承开源精神共享好机场，如果本项目对你有帮助请留个Star！** 项目地址：https://github.com/ChaselDutt/VPN-Deep-Test
 
