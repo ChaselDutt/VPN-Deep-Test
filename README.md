@@ -12,7 +12,7 @@
 
 顶级机场：便宜里面最稳定，稳定里面最便宜，官网需开代理访问。
 
-cherry：节点最多，抗打击强。
+cherry：节点最多，稳定性比较好，有流媒体免登陆节点（Netflix）、Cherry Emby等特色，有1元日付套餐。
 
 libcyber：延迟最低，稳定性最高，价格最贵。
 
@@ -22,7 +22,7 @@ libcyber：延迟最低，稳定性最高，价格最贵。
 
 灵魂云：平平无奇
 
-| 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 包月/流量 | 详细 |
+| 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 价格 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [顶级机场](https://xn--mes358a9urctx.com/#/register?code=AaEV8zCQ) | ★★★★★ | >100M | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★★☆ | >100M | 中 | 中转 | SS | 高 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
