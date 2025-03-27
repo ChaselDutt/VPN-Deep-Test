@@ -24,7 +24,7 @@ libcyber：高速中转节点延迟仍可到50以下，稳定性高，价格比�
 
 | 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 价格 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=AaEV8zCQ) | ★★★★★ | >100M | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
+| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=CdPfraNB) | ★★★★★ | >100M | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★★☆ | >100M | 中 | 中转 | SS | 高 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://baiducdn-global-ff363583-0efa-41be-9a77.lcinvite.top/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55&code=GNW6BW) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [灵魂云](https://linghunyun.com/#/register?code=rsY0Y0Sj) | ★★★☆☆ | >100M | 中 | 中转 | Trojan | 中 | 12.9/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/4) |
