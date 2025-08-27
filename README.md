@@ -31,7 +31,7 @@ cherry：最近问题有点多降低推荐星级（2025.8.22）
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [两元店](https://www.xn--5hqx9equq.biz/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
 | [灵魂云](https://linghunyun.com/#/register?code=rsY0Y0Sj) | ☆☆☆☆☆ | >100M | 中 | 中转 | Trojan | 中 | 12.9/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/4) |
-| [几鸡](https://y.luxury/user/shop) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
+| [几鸡](https://j05.tbcache.us/waf/qFxz9ts9YvaRuJrg2) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
 
 **以下为稳定性记录，相关问题截图已发在issues做存档。**
