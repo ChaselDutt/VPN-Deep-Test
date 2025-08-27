@@ -28,7 +28,7 @@ cherry：最近问题有点多降低推荐星级（2025.8.22）
 
 以下订阅只可用于紧急备用、测试连通性和延迟。不可用于测速、下载、视频浏览等大流量场景！
 
-[两元店中转套餐](https://www.fightingly.vip/api/v1/client/subscribe?token=45c4126f5e0aa375d07c2129d3463d68)
+两元店中转套餐：https://www.fightingly.vip/api/v1/client/subscribe?token=45c4126f5e0aa375d07c2129d3463d68
 
 | 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 价格 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
