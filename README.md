@@ -56,6 +56,8 @@ libcyber：群组发放优惠码【NationalDay2025】
 
 **9月22日 - 9月28日：**
 
+两元店：9月24日23:04分群友反馈节点异常，25日7:54群主回应已恢复[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3369786937)
+
 顶级机场：高速节点未恢复
 
 <br> 
