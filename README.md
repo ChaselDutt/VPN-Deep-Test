@@ -49,9 +49,9 @@ cherry：9月30日10:20开始群友反馈节点不稳定 [截图](https://github
 
 cherry：9月29日15:00多位群友反馈节点崩溃 [截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3369799515)
 
-libcyber：群主发放优惠码【2025-10-06T09:21:52Z】
+libcyber：群主发放优惠码（NationalDay2025）
 
-顶级机场：高速节点未恢复，群主发放优惠码【2025-10-06T09:21:52Z】
+顶级机场：群主发放优惠码（国庆优惠），高速节点未恢复
 
 <br> 
 
