@@ -4,7 +4,7 @@
 
 2、如果有好的机场可以提交Issues分享，**如果本项目对你有帮助，请点击右上角的Starred（星星）！**
 
-3、关于机场网络类型：标中转的机场可能包含直连，标直连的就只有直连，至于哪个好要看机场，可以参考稳定性记录。
+3、标中转的机场可能包含直连，标直连的就只有直连，至于哪个主要还是看机场，可以参考稳定性记录。
 
 **机场特点：**
 
@@ -30,7 +30,7 @@ libcyber：延迟最低稳定性高，价格比较贵适合商务用途，支持
 
 | 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 价格 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=CdPfraNB) | ★★★★★ | >100M | 低 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
+| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=CdPfraNB) | ★★★★★ | >100M | 中 | 直连 | Hysteria2 | 高 | 6.5/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★☆☆ | >100M | 中 | 中转 | SS | 中 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [两元店](https://www.xn--5hqx9equq.biz/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
@@ -44,6 +44,8 @@ libcyber：延迟最低稳定性高，价格比较贵适合商务用途，支持
 **10月13日 - 10月19日：**
 
 两元店：10月16日17:47开始群友反馈节点奔溃 [截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3417731256)
+
+顶级机场：高速节点一直未恢复延迟等级调为中，主流网站还是秒开，少了一个亮点其他没什么影响
 
 <br> 
 
