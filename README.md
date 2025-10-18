@@ -6,6 +6,8 @@
 
 3、标中转的机场可能包含直连，标直连的就只有直连，至于哪个主要还是看机场，可以参考稳定性记录。
 
+<br> 
+
 ### 机场特点：
 
 **顶级机场：** 便宜里面最稳定，稳定里面最便宜，官网需开代理访问。
@@ -18,6 +20,7 @@
 
 **几鸡：** 每天签到送免费流量，虽然免费的访问网页都是个问题，但是官网国内可直接访问，所以可作为紧急情况下的备用，登个dc、tg之类的软件勉强可以。
 
+<br> 
 
 ### 机场测试：
 
@@ -27,6 +30,7 @@
 
 两元店直连：`https://www.fightingly.vip/api/v1/client/subscribe?token=636bbdc15d891f5ccbe79cb1734efa0b`
 
+<br> 
 
 | 名称 | 评级 | 速度 | 延迟 | 类型 | 协议 | 稳定性 | 价格 | 详细 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,8 +40,9 @@
 | [两元店](https://www.xn--5hqx9equq.biz/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1000G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
 | [几鸡](https://j05.tbcache.us/waf/qFxz9ts9YvaRuJrg2) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
+<br> 
 
-**以下为稳定性记录，相关问题截图已发在issues做存档。**
+以下为稳定性记录，相关问题截图已发在issues做存档。
 
 <br> 
 
