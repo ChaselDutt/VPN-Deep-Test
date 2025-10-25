@@ -46,7 +46,7 @@
 
 **10月20日 - 10月26日：**
 
-libcyber：10月24日12:00群友反映异常群主回复【节点故障】由于机房受到通报，目前高速节点无法连接，专线节点和实验性节点正常，稍安勿躁，正在进行调整。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3447725198)
+libcyber：10月24日12:00高速节点无法连接，专线节点和实验性节点正常，下午16点左右修复。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3447725198)
 
 <br> 
 
