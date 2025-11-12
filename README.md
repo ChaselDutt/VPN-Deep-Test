@@ -20,15 +20,6 @@
 
 **几鸡：** 每天签到送免费流量，虽然免费的访问网页都是个问题，但是官网国内可直接访问，所以可作为紧急情况下的备用，登个dc、tg之类的软件勉强可以。
 
-<br> 
-
-### 机场测试：
-
-1、**不可用于长时间测速、下载、视频浏览等大流量场景！**
-
-2、发现滥用后会重置订阅，可直接导入clash等客户端使用
-
-两元店直连：`https://www.fightingly.vip/api/v1/client/subscribe?token=636bbdc15d891f5ccbe79cb1734efa0b`
 
 <br> 
 
@@ -37,7 +28,7 @@
 | [顶级机场](https://xn--mes358a9urctx.com/#/register?code=CdPfraNB) | ★★★★★ | >100M | 中 | 直连 | Hy2 | 高 | 6.5/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★☆☆ | >100M | 中 | 中转 | SS | 中 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
-| [两元店](https://www.xn--5hqx9equq.biz/#/register?code=aArczPPG) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
+| [两元店](https://www.xn--5hqx9equq.bi) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
 | [几鸡](https://j05.tbcache.us/waf/qFxz9ts9YvaRuJrg2) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
 <br> 
