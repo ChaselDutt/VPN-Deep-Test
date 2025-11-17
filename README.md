@@ -40,6 +40,8 @@
 
 cherry：11月13日10:52左右，多人反应挂了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3543037497)
 
+libcyber：：11月14日11:01左右，多人反应异常，11:21左右恢复。 [截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3543097751)
+
 <br> 
 
 **11月3日 - 11月9日：**
