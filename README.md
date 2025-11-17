@@ -36,6 +36,12 @@
 以下为稳定性记录，相关问题截图已发在issues做存档。
 
 
+**11月10日 - 11月16日：**
+
+cherry：11月13日10:52左右，多人反应挂了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3543037497)
+
+<br> 
+
 **11月3日 - 11月9日：**
 
 cherry：11月7日12:00左右，多人反应节点全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3542968884)
