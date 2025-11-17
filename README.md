@@ -35,6 +35,13 @@
 
 以下为稳定性记录，相关问题截图已发在issues做存档。
 
+
+**11月3日 - 11月9日：**
+
+cherry：11月7日12:00左右，多人反应节点全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3542968884)
+
+<br> 
+
 **10月27日 - 11月2日：**
 
 两元店：10月31日12:55左右，多人反应节点崩溃，13:00客服回应网络波动。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3542713028)
