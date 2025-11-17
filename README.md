@@ -40,6 +40,8 @@
 
 cherry：11月7日12:00左右，多人反应节点全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3542968884)
 
+两元店：11月6日17:24左右，多人反应节点崩溃，18:31客服回应网络波动当时几分钟就好了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3543006045)
+
 <br> 
 
 **10月27日 - 11月2日：**
