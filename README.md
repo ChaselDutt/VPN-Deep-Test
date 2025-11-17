@@ -35,6 +35,13 @@
 
 以下为稳定性记录，相关问题截图已发在issues做存档。
 
+**10月27日 - 11月2日：**
+
+两元店：10月31日12:55左右，多人反应节点崩溃，13:00客服回应网络波动。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3542713028)
+
+<br> 
+
+
 **10月20日 - 10月26日：**
 
 libcyber：10月24日12:00高速节点无法连接，专线节点和实验性节点正常，下午16点左右修复。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3447725198)
