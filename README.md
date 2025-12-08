@@ -37,6 +37,33 @@
 
 <br> 
 
+**12月1日 - 12月7日：**
+
+两元店：12月5日17:44左右，多人反应中转节点全红，客服回应先用直连。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629264525)
+
+两元店：12月2日19:26左右，多人反应中转节点全红，客服回应先用直连。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629258963)
+
+
+<br> 
+
+**11月24日 - 11月30日：**
+
+两元店：11月26日15:30左右，多人反应中转节点全红，客服回应中转有点小问题先用直连。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629228047)
+
+
+<br> 
+
+**11月17日 - 11月23日：**
+
+
+两元店：11月20日17:01左右，多人反应节点全红，客服回应可能网络波动稍等就好。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629208029)
+
+两元店：11月18日12:53左右，多人反应中转节点全红，客服回应稍等再修。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629187186)
+
+11月18日：CF故障导致多家机场出问题
+
+<br> 
+
 **11月10日 - 11月16日：**
 
 cherry：11月13日10:52左右，多人反应挂了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3543037497)
@@ -475,6 +502,6 @@ cherry：9.18 开始有群友反应chatgpt不能用。
 
 两元店：还是经常故障，其他没发现群组有人反应问题，几鸡群组不能发图还经常删消息无法得知。
 
-【2025-11-17T17:22:38Z】
+【2025-12-08T22:23:45Z】
 
 </details>
