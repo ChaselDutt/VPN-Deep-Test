@@ -48,7 +48,11 @@
 
 **11月24日 - 11月30日：**
 
+libcyber：11月30日18:21左右，多人反应节点故障，客服回应近期会重新添加很多新型节点供iOS连接，以前的节点就只能在官方客户端用了。。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3629466677)
+
 两元店：11月26日15:30左右，多人反应中转节点全红，客服回应中转有点小问题先用直连。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629228047)
+
+libcyber：11月24日16:02左右，一人反应节点故障，16:27客服回应刚刚节点域名被dns污染了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3629448527)
 
 
 <br> 
