@@ -37,6 +37,16 @@
 
 <br> 
 
+**12月8日 - 12月14日：**
+
+cherry：12月11日19:35左右多人反馈全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3653713056)
+
+cherry：12月10日9:48开始全天陆续有人反应奔溃。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3653688184)
+
+cherry：12月9日15:01左右，多人反应节点全崩，晚上22:54客服回应会补偿现有套餐用户。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3543037497)
+
+<br> 
+
 **12月1日 - 12月7日：**
 
 两元店：12月5日17:44左右，多人反应中转节点全红，客服回应先用直连。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3629264525)
