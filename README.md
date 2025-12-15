@@ -28,7 +28,7 @@
 | [顶级机场](https://xn--mes358a9urctx.com/#/register?code=CdPfraNB) | ★★★★★ | >100M | 中 | 直连 | Hy2 | 高 | 6.5/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3) |
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★☆☆ | >100M | 中 | 中转 | SS | 中 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
-| [两元店](https://www.xn--5hqx9equq.bi) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
+| [两元店](https://xn--5hqx9equq.com/#/register?code=642GSxns) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
 | [几鸡](https://j05.tbcache.us/waf/qFxz9ts9YvaRuJrg2) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
 
 <br> 
@@ -506,6 +506,6 @@ cherry：9.18 开始有群友反应chatgpt不能用。
 
 两元店：还是经常故障，其他没发现群组有人反应问题，几鸡群组不能发图还经常删消息无法得知。
 
-【2025-12-14T23:22:12Z】
+【2025-12-15T02:04:26Z】
 
 </details>
