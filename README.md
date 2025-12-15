@@ -45,6 +45,8 @@ cherry：12月10日9:48开始全天陆续有人反应奔溃。[截图](https://g
 
 cherry：12月9日15:01左右，多人反应节点全崩，晚上22:54客服回应会补偿现有套餐用户。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3543037497)
 
+libcyber：12月9日19:29客服通知以后尽量使用LibCyber官方客户端，对于Clash和小火箭等客户端，以后稳定性没法像以前那样有保障了
+
 <br> 
 
 **12月1日 - 12月7日：**
