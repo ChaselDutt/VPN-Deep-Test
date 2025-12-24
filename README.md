@@ -37,6 +37,12 @@
 
 <br> 
 
+**12月15日 - 12月21日：**
+
+两元店：12月17日15:38有人反馈中转全红，客服回复马上恢复。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3689085670)
+
+<br> 
+
 **12月8日 - 12月14日：**
 
 cherry：12月11日19:35左右多人反馈全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3653713056)
