@@ -41,7 +41,7 @@
 
 两元店：12月17日15:38有人反馈中转全红，客服回复马上恢复。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3689085670)
 
-libcyber：貌似有卧底，近期不太稳，几乎每天都有故障反馈
+libcyber：貌似有卧底，近期不太稳，几乎每天都有故障反馈。[群聊记录](https://github.com/ChaselDutt/VPN-Deep-Test/blob/main/LibCyber%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95/2025-12-15%E8%87%B32025-12-21.txt)
 
 <br> 
 
