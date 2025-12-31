@@ -37,6 +37,16 @@
 
 <br> 
 
+**12月22日 - 12月28日：**
+
+cherry：12月23日22:13左右多人反馈全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3701369802)
+
+两元店：12月23日22:26左右多人反馈卡慢。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3701510894)
+
+两元店：12月24日15:49左右多人反馈崩溃。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3701512639)
+
+<br> 
+
 **12月15日 - 12月21日：**
 
 两元店：12月17日15:38有人反馈中转全红，客服回复马上恢复。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3689085670)
