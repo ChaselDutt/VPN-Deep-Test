@@ -45,7 +45,7 @@ cherry：12月23日22:13左右多人反馈全红。[截图](https://github.com/C
 
 两元店：12月24日15:49左右多人反馈崩溃。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3701512639)
 
-顶级机场：新增日本三网高速节点，高峰期可能不太稳定。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3#issuecomment-3701698442)
+顶级机场：高速节点恢复1个，高峰期稳定性有待观察。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3#issuecomment-3701698442)
 
 <br> 
 
