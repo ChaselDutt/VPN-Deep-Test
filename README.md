@@ -37,6 +37,16 @@
 
 <br> 
 
+**1月1日 - 2026年1月4日：**
+
+顶级机场：最近有点卡
+
+<details>
+  
+**<summary>2025年历史记录</summary>**
+
+<br> 
+
 **12月22日 - 12月28日：**
 
 cherry：12月23日22:13左右多人反馈全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3701369802)
@@ -387,6 +397,8 @@ cherry：1月12日17:53分开始有人反馈最近不太稳定，群主回应香
 两元店：1月3日，晚上20:47分开始有群友反馈不稳定，21点后情况加剧。
 
 <br> 
+
+</details>
 
 <details>
   
