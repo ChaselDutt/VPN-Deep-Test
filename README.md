@@ -47,7 +47,7 @@ cherry：1月1日07:02左右多人反馈全红。[截图](https://github.com/Cha
 
 两元店：1月2日15:00左右多人反馈节点问题。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3721750143)
 
-libcyber：保障率大幅下降
+libcyber：报障率大幅下降
 
 顶级机场：最近有点卡不知道是不是年底用的人比较多
 
