@@ -41,6 +41,14 @@
 
 **1月1日 - 1月4日：**
 
+cherry：1月1日07:02左右多人反馈全红。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2#issuecomment-3721736157)
+
+两元店：2025.12月31日15:08左右多人反馈节点问题。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3721744466)
+
+两元店：1月2日15:00左右多人反馈节点问题。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3721750143)
+
+libcyber：保障率大幅下降
+
 顶级机场：最近有点卡不知道是不是年底用的人比较多
 
 <details>
@@ -97,7 +105,7 @@ libcyber：11月30日18:21左右，多人反应节点故障，客服回应近期
 
 libcyber：11月24日16:02左右，一人反应节点故障，16:27客服回应刚刚节点域名被dns污染了。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3629448527)
 
-
+https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3721750143
 <br> 
 
 **11月17日 - 11月23日：**
