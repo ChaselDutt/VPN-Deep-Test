@@ -51,7 +51,7 @@ cherry：1月6日15:40左右多人反馈节点挂了。[截图](https://github.c
 
 两元店：1月9日31日12:01左右多人反馈中转奔溃。[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1#issuecomment-3738291273)
 
-顶级机场：1月11日德国节点测速 [GIF截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3#issuecomment-3738321709)
+顶级机场：1月11日最新节点测速，卡慢问题好转。 [GIF截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/3#issuecomment-3738321709)
 
 <br> 
 
