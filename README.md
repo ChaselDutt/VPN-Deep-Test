@@ -37,6 +37,13 @@
 
 以下为稳定性记录，相关问题截图已发在issues做存档。
 
+
+<br> 
+
+**1月12日 - 1月18日：**
+
+libcyber：1月13日16:00左右发现节点全红[截图](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6#issuecomment-3742797142)
+
 <br> 
 
 **1月5日 - 1月11日：**
