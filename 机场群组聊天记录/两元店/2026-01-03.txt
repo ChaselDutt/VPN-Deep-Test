@@ -1,0 +1,76 @@
+2026-01-03 09:03:01 2019688829 怎么连不上油管呢
+2026-01-03 09:03:52 官方客服 开全局模式
+2026-01-03 09:04:05 2019688829 一直都是全局
+2026-01-03 09:04:48 官方客服 你是什么设备什么代理软件
+2026-01-03 09:21:14 2019688829 安卓v2rayng
+2026-01-03 09:21:31 官方客服 安卓
+2026-01-03 09:21:37 官方客服 换这个代理软件就好了
+2026-01-03 09:22:12 2019688829 这个也有，我试试
+2026-01-03 10:08:22 1675051756 官网
+2026-01-03 11:58:44 5438879595 美国节点，为啥看油管不能小窗了
+2026-01-03 11:59:17 5438879595 我记得之前可以啊
+2026-01-03 11:59:43 官方客服 应该是软件问题。你谷歌搜索一下什么原因。
+2026-01-03 12:08:56 6074023487 在哪买美区id
+2026-01-03 12:09:14 官方客服 自己注册一个
+2026-01-03 12:09:32 6074023487 怎么注册
+2026-01-03 12:09:47 官方客服 看图片提示
+2026-01-03 12:22:18 1499904939 ss中转一直无法连接
+2026-01-03 12:24:50 官方客服 官网上重新导入订阅地址
+2026-01-03 12:24:56 官方客服 https://www.liangyuandian.store/#/login
+2026-01-03 12:24:59 官方客服 已换国内最新直连网址不翻墙也能进的，重新导入订阅地址即可。
+2026-01-03 12:25:40 1499904939 重置订阅了 也无法打开YouTube
+2026-01-03 12:26:12 官方客服 你是什么设备什么代理软件
+2026-01-03 12:26:29 1499904939 MAC
+2026-01-03 12:26:29 6074023487 地址生成器在哪
+2026-01-03 12:26:59 官方客服 官网上有复制订阅地址
+2026-01-03 12:27:00 1499904939 M芯片
+2026-01-03 12:27:13 官方客服 Mac M芯片
+2026-01-03 12:27:30 6074023487 注册ID的
+2026-01-03 12:29:51 6074023487 在吗
+2026-01-03 12:30:09 官方客服 在的
+2026-01-03 12:30:37 6074023487 注册美区ID地址生成器在哪的
+2026-01-03 12:31:08 官方客服 没有这个
+2026-01-03 13:54:15 8309938670 批量美女视频素材  打粉视频引流，效果显著
+2026-01-03 14:03:42 5485076791 网有点卡
+2026-01-03 14:04:31 官方客服 重启一下网络和代理软件
+2026-01-03 16:58:42 389746206 旁路由openwrt用什么软件可以订阅啊？
+2026-01-03 16:59:40 官方客服 clash
+2026-01-03 17:02:01 389746206 我用的openclash~订阅不了
+2026-01-03 17:02:35 官方客服 https://www.liangyuandian.store/#/login
+2026-01-03 17:02:45 官方客服 这个网址重新导入订阅地址
+2026-01-03 17:05:31 389746206 2026-01-03 17:05:12 错误：【config】下载失败，请检查网络或稍后再试...
+2026-01-03 17:06:01 389746206 不行~错误日志提示配置文件有问题~
+2026-01-03 17:07:48 389746206 @xn5hqx9equq 大佬帮忙看看啥问题啊？
+2026-01-03 17:10:38 官方客服 各平台持续更新的代理软件（2025-01-06更新）：
+  ❶ Singbox (https://sing-box.sagernet.org/zh/clients/android/), SurfBoard (https://manual.getsurfboard.com/), Nekobox (https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest), 
+  ❷ FlClash (https://github.com/chen08209/FlClash), Clash Meta for Android (https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest), V2rayNG (https://github.com/2dust/v2rayNG),
+  ❸ Karing (https://github.com/KaringX/karing/releases/latest), Hiddify (https://github.com/hiddify/hiddify-next/releases/latest), v2rayInsight (https://t.me/s/v2rayInsight)
+  ❶ Singbox (https://sing-box.sagernet.org/zh/clients/apple/)    免费, Surge (https://apps.apple.com/us/app/surge-5/id1442620678)  收费, ShadowRocket (https://apps.apple.com/us/app/shadowrocket/id932747118)  收费, Stash   (https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?l=zh-Hans-CN)  收费, 
+  ❷ Loon (https://apps.apple.com/us/app/loon/id1373567447?l=zh-cn)  收费, Quantumult-X (https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh-cn&platform=iphone)  收费, 
+  ❸ Karing (https://apps.apple.com/us/app/karing/id6472431552)    免费, Hiddify (https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)    免费, Egern (https://apps.apple.com/app/id1616105820)  收费, Tuna (https://apps.apple.com/us/app/clash-dash/id6738882561)  收费
+  ClashMeta (https://github.com/likuai2010/ClashMeta)
+  ❶ Dae (大鹅) (https://github.com/daeuniverse/dae), Singbox (https://sing-box.sagernet.org/zh/installation/package-manager/#tabbed31),
+  ❷ 基于Mihomo/ClashMeta, Singbox等裸核的各透明网关方案
+  ❶ Clash Verge Rev (https://github.com/clash-verge-rev/clash-verge-rev/releases/latest), Mihomo Party (https://github.com/pompurin404/mihomo-party/releases), V2rayN (https://github.com/2dust/v2rayN/releases/latest),
+  ❷ FlClash (https://github.com/chen08209/FlClash), Nekoray (https://github.com/MatsuriDayo/nekoray/releases/latest), Clash Nyanpasu (https://github.com/libnyanpasu/clash-nyanpasu), 
+   (https://github.com/KaringX/karing/releases/latest)❸ Karing (https://github.com/KaringX/karing/releases/latest), Hiddify (https://github.com/hiddify/hiddify-next/releases/latest)
+  Singbox (https://sing-box.sagernet.org/zh/installation/package-manager/#tabbed35)
+  ❶ Singbox for Mac (https://sing-box.sagernet.org/zh/clients/apple/) (sfm),  Mihomo Party (https://github.com/pompurin404/mihomo-party/releases),  Surge for Mac💰 (https://nssurge.com/), 
+  ❷ Clash Verge Rev (https://github.com/clash-verge-rev/clash-verge-rev/releases/latest), FlClash (https://github.com/chen08209/FlClash), Hiddify (https://github.com/hiddify/hiddify-next/releases/latest)
+#Singbox for Mac: 更建议在终端以brew方式安装
+brew install --cask sfm
+ 华硕 官改/梅林 (https://www.koolcenter.com/fw)固件: 
+  ❶ MerlinClash (https://t.me/merlinclashcat), ShellCrash (https://github.com/juewuy/ShellCrash), 
+  ❷ FancySS (https://github.com/hq450/fancyss), MerlinClash Lite (https://t.me/MerlinClashLite)🆕
+ 小米 解锁SSH后: ShellCrash (https://github.com/juewuy/ShellCrash) (原ShellClash (https://t.me/ShellClash))
+🗄 OpenWrt: amd64 & aarch64
+ ❶ 四大天王: PassWall (https://github.com/xiaorouji/openwrt-passwall), Passwall2 (https://github.com/xiaorouji/openwrt-passwall2), OpenClash (https://github.com/vernesong/OpenClash), SSR+ (https://github.com/fw876/helloworld)。四者更建议从Github下载.run脚本一键式安装：
+   ➤ AUK9527 (https://github.com/AUK9527/Are-u-ok) 打包版，更新慢
+   ➤ 絆城 (https://github.com/bcseputetto/Are-u-ok) 打包版，含arm A72、更新快
+ ❷ ShellCrash (https://github.com/juewuy/ShellCrash) (原ShellClash (https://t.me/ShellClash)), Daed (https://github.com/daeuniverse/daed) (大鹅op版), 
+ ❸ MihomoTProxy (https://github.com/morytyann/OpenWrt-mihomo), Neko (https://github.com/nosignals/openwrt-neko), HomeProxy (https://github.com/immortalwrt/homeproxy), FChomo (https://github.com/muink/openwrt-fchomo) ⚠️四者均依赖FW4
+ ❹ ByPass (https://github.com/tianiue/luci-app-bypass) (🛑断更)、HelloWorld (https://github.
+2026-01-03 17:49:05 389746206 安装了最新的还是不能订阅~
+2026-01-03 17:50:23 官方客服 你的网络是不是公司内网校园网货网吧等
+2026-01-03 17:50:42 389746206 我是动态公网~
+2026-01-03 17:52:12 389746206 2026-01-03 17:49:47 错误：【两元店】下载失败，请检查网络或稍后再试...
