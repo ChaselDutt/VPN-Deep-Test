@@ -35,7 +35,7 @@
 
 ### 全新稳定性分析系统：https://vpntier.pages.dev
 
-<img src="https://github.com/ChaselDutt/VPN-Deep-Test/blob/main/demo.png" width="800" alt="VPN机场天梯榜" />
+<img src="https://github.com/ChaselDutt/VPN-Deep-Test/blob/main/demo.png" width="600" alt="VPN机场天梯榜" />
 
 <br> 
 
