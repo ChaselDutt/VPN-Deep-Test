@@ -33,7 +33,7 @@
 
 <br> 
 
-### 全新稳定性分析系统：https://vpntier.pages.dev
+### 人力有限改用AI分析可监控更多机场群组，旧版不在更新！AI分析系统：https://vpntier.pages.dev
 
 <img src="https://github.com/ChaselDutt/VPN-Deep-Test/blob/main/demo.png" width="600" alt="VPN机场天梯榜" />
 
