@@ -1,0 +1,14 @@
+2026-02-07 06:47:10 7993740723 Emby 看不了
+2026-02-07 06:50:32 7993740723 前几天还能看的 就这几天看不了了
+2026-02-07 06:56:09 7993740723 好像也不行
+2026-02-07 06:56:37 7993740723 显示未经授权
+2026-02-07 10:42:54 6706979209 这个啥问题
+2026-02-07 10:44:55 6706979209 图片发不出来
+2026-02-07 10:51:36 6706979209 DioException [connection error]: The connection errored: Failed host lookup: 'cdn.windowsrss.cv' This indicates an error which most likely cannot be solved by the library. Error: SocketException: Failed host lookup:'cdn.windowsrss.cv'(OS Error: No address associated with hostname errno=7
+2026-02-07 20:27:32 7388358141 @cherrylink_vpn    哥哥 不能用了
+2026-02-07 20:28:31 7388358141 senplayer 不养用
+2026-02-07 22:27:58 官方客服 clash内核就是这样
+2026-02-07 22:28:08 官方客服 你了解了内核你就知道为啥了
+2026-02-07 23:14:53 601889133 老板 你这机场支持的客户端是有限制的吗
+2026-02-07 23:21:57 2093181929 global默认include all
+2026-02-07 23:22:13 官方客服 clash核心的都可以

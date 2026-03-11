@@ -1,0 +1,17 @@
+2026-02-24 00:14:00 8681836803 Hello iam from Europe and I need to visit China for about a month. Can the hotel stuff see that iam connected to Geph VPN?
+2026-02-24 00:26:58 1231911790 Don't worry, use it and enjoy your trip.
+2026-02-24 10:16:49 1074816863 不可能成功
+2026-02-24 10:26:34 1330801936 不是特别针对中文用户，是根据你的浏览器语言和IP自动适配语种
+2026-02-24 10:48:05 8284558760 u can change other vpn
+2026-02-24 10:48:21 8284558760 because sometime it doesn't work
+2026-02-24 10:48:51 8284558760 还是建议他使用流量卡？
+2026-02-24 11:07:26 1074816863 外国人谁管，被嗅探到了不怕
+2026-02-24 11:12:59 889147693 通常外国人去中国旅游，官方不会管你用不用VPN的
+2026-02-24 11:19:27 889147693 直接买那种漫游流量应该就可以了
+2026-02-24 11:20:14 1074816863 外国人穷游多
+2026-02-24 12:20:14 1074816863 外国人穷游多
+2026-02-24 13:00:44 8529713821 速度不快，有些IP无法访问特定网站。
+2026-02-24 13:57:58 1231911790 If you have issues, email support@geph.io with your account details and problem description, preferably in English.
+2026-02-24 17:45:39 581485356 @nullchinchilla Can you consider adding custom rules in future versions?
+2026-02-24 21:08:23 1074816863 Seems there are no discount codes at the moment.
+2026-02-24 22:46:27 8681836803 Okay thats pretty well done

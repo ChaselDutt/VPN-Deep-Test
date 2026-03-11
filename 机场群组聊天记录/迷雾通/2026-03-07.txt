@@ -1,0 +1,77 @@
+2026-03-07 00:11:22 1083998670 今晚连接断断续续
+2026-03-07 10:02:59 1644370885 伊朗战争后，少了很多伊朗人，迷雾通好像运行得快了很多
+2026-03-07 10:03:52 1644370885 伊朗人推倒墙了吗？都不用迷雾通了
+2026-03-07 10:05:11 1074816863 用不了了，相当于永封
+2026-03-07 10:05:27 1644370885 nthlink、自由门、无界、赛风都连接不上了，只有迷雾通才连接得上
+2026-03-07 10:06:00 1644370885 幸好我备了一堆vpn软件
+2026-03-07 10:06:24 1074816863 Nthlink 连不上？我准备拿它做备份
+2026-03-07 10:07:13 1644370885 昨天可以，今天连不上
+2026-03-07 10:07:17 1074816863 还好没看走眼，选择了迷雾通
+2026-03-07 10:08:05 1644370885 为什么迷雾通现在注册搞得那么复杂？
+2026-03-07 10:08:48 1074816863 怕机器人注册，使用了类似区块链的工作证明技术POW
+2026-03-07 10:10:28 1644370885 我的帐号变成一串数字，很难记
+2026-03-07 10:11:19 1644370885 伊朗目前断网了吗？很少伊朗人发言了
+2026-03-07 12:37:17 774288352 /gift_me_im_a_wise_moneky
+2026-03-07 12:49:06 774288352کسی با این برنامه وصل هست
+2026-03-07 13:19:30 774288352 بله
+2026-03-07 13:23:19 7764294945 Is iran still have firewall to block google,youtube,telegram and so on?
+2026-03-07 13:51:32 290969067 yeah we have a pretty shit censorship up that makes people barely able to connect to the global internet... you can see the updates on @netblocks
+2026-03-07 14:30:23 6463602468 Yup
+2026-03-07 14:30:33 6463602468 They keep updating it everyday
+2026-03-07 14:30:48 6463602468 Now they're blocking the DNS
+2026-03-07 14:30:59 6463602468 We're trying to get connected with DNSTT
+2026-03-07 15:19:00 7523820993 anywat_21092@nullchinchilla 用户论坛已无法连接至少一个礼拜了
+2026-03-07 15:19:40 7764294945 Don t worry. I believe  Iran will become a free and democratic country 💪😊
+2026-03-07 15:21:51 6463602468 Well we're losing our jobs
+2026-03-07 15:22:04 6463602468 We got like 4M international freelancers
+2026-03-07 15:22:26 6463602468 If anyone has got any bright ideas how to stay connected let us know
+2026-03-07 15:22:37 6463602468 And you'll be appreciated by us for the rest of your life
+2026-03-07 15:23:15 6463602468 This is what they're doing to DNS connections:domain == openai.com → allowdomain == google.com → allowip_server == 1.1.1.1/1.1.1.0*blockelse → block
+2026-03-07 15:24:19 6463602468 And they're setting up the datacenters to drop the icmp/GGSN/CGNAT connections
+2026-03-07 15:24:28 6463602468 We really really need some serious help
+2026-03-07 15:26:46 7764294945 @Sermapy Can iran use tor brower to connect internet?
+2026-03-07 15:27:29 7764294945 Such as obfs4,snowflake
+2026-03-07 15:29:15 6463602468 They've been blocked 2 months ago 😢
+2026-03-07 15:29:51 6463602468 Only sometimes, if we get lucky, Psiphon connects through conduits setup by the foreigners
+2026-03-07 15:33:01 6463602468 So any other uncommon ways of connecting you guys have up your sleeves?😂
+2026-03-07 15:33:14 6463602468 We'll try anything to get connected
+2026-03-07 15:35:30 7764294945 Can u use MTProto proxy or Psiphon to connect telegram?
+2026-03-07 15:40:13 1644370885 频道地址呢？
+2026-03-07 15:41:45 8783658057 https://t.me/+u2hJwyomM1s0MGFh
+2026-03-07 15:42:06 8783658057 随便捞两个吧！只看VPN 标签就行
+2026-03-07 15:44:37 8783658057 每个月花十来块钱，订阅一个靠谱的机场防身
+2026-03-07 15:46:19 6463602468 Mtproto, socks, http are off the table
+2026-03-07 15:46:23 6463602468 Psiphon works
+2026-03-07 15:46:26 6463602468 At times
+2026-03-07 15:50:56 8783658057 如果不想花钱，就找一些公益节点导入开源代理客户端，白嫖到底
+2026-03-07 16:05:44 1644370885 多谢推荐
+2026-03-07 16:06:21 8783658057 可以下载那个nekobox，然后我再给你推荐一些免费订阅
+2026-03-07 16:06:25 8783658057 白嫖到底
+2026-03-07 16:36:18 6463602468 Other unorthodox methods for connecting guys?
+2026-03-07 16:36:23 6463602468 Any leads on GFK?
+2026-03-07 17:43:02 7764294945 Can u use foreign esim (roaming) to connected telegram?
+2026-03-07 17:44:29 8783658057 这个叫猫盒，非常强大，有它在，你基本上就没有吃不下的节点
+2026-03-07 17:45:30 6463602468 Only in borders
+2026-03-07 17:51:52 7764294945 Can t use roaming?
+2026-03-07 17:57:06 6463602468 Nope
+2026-03-07 17:57:11 6463602468 Cut off
+2026-03-07 18:02:25 7764294945 Is starlink available in Iran?
+2026-03-07 18:03:52 6463602468 Yeah but it's both illegal and expensive
+2026-03-07 18:03:58 6463602468 Going for 3k
+2026-03-07 19:56:27 8161659704 LS節點怎麼又沒有了
+2026-03-07 20:16:36 1644370885 你用的是什么节点？
+2026-03-07 20:30:22 8783658057 机场
+2026-03-07 20:31:40 8783658057 https://xn--ehqa22b.site/s/41c816896184239a3000549614517149
+2026-03-07 20:31:53 8783658057 这里有个白嫖的机场订阅，你可以导入猫盒
+2026-03-07 21:28:01 7764294945 @Sermapy Is the price level stable in Iran?
+2026-03-07 21:37:48 6463602468 Food price? Nope
+2026-03-07 21:37:52 6463602468 Keeps going higher
+2026-03-07 21:37:59 6463602468 Vpn price as well
+2026-03-07 21:52:57 8134612316 nthlink好歹有时连得上，速度也还能接受，自由门这些轮系连不上不说，就算脸上速度慢的页面都刷不出来
+2026-03-07 21:57:42 1074816863 GFW能力就那样了，和伊朗对周围乱发射导弹一样，根本不能针对迷雾通做什么。
+2026-03-07 22:00:14 8275892455 不要挑衅🤬隔壁自建的都封成啥样了
+2026-03-07 22:00:28 8783658057 一个确实是迷雾通的协议设计得很超前，二个是GFW也要算帐的，不是全封，不然什么VPN都不好使
+2026-03-07 22:50:15 6106245449 干掉cdn777就够吃一壶了
+2026-03-07 22:50:59 6106245449 我挺好奇freedom.gov可以整点啥出来
+2026-03-07 22:51:41 6106245449 难道开发者已经在美国政府里加急开发终极翻墙工具了？
+2026-03-07 22:58:19 8783658057 那玩意不见得是什么好事，到时候GFW疯狂升级，殃及池鱼

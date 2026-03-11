@@ -1,0 +1,6 @@
+**用户反馈 VPN 机场服务质量：**
+
+*   **karryfeng:** 最近 VPN 一直用不了。
+*   **mrfungfung:** iOS 上的 Shadowrocket VPN 无法使用，桌面端可用。已尝试刷新和更新至最新版本。
+*   **braginsk1:** 感觉 VPN 经常崩溃。刚更新了订阅链接，现在又无法连接。手机端尚可，但电脑端经常掉线。
+*   **karryfeng:** (表示遇到同样的问题)
