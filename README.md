@@ -18,7 +18,7 @@
 
 **两元店：** 直连套餐最便宜，但是非常不稳定，曾经有超过好几个月无法使用的记录，比较适合用来下载。
 
-**几鸡：** 每天签到送免费流量，虽然免费的访问网页都是个问题，但是官网国内可直接访问，所以可作为紧急情况下的备用，登个dc、tg之类的软件勉强可以。
+**迷雾通：** 免费版可以浏览图片较少网页，该机场【没有订阅链接】必须使用官方客户端
 
 
 <br> 
@@ -29,7 +29,7 @@
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★☆☆ | >100M | 中 | 中转 | SS | 中 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [两元店](https://xn--5hqx9equq.com/#/register?code=642GSxns) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
-| [几鸡](https://j05.tbcache.us/waf/qFxz9ts9YvaRuJrg2) | 待补充 | <100M | 待补充 | 中转 | Trojan | 待补充 | 10/300G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/5) |
+| [迷雾通](https://geph.io/zhs) | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 | 待补充 | 42/无限 | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 
 <br> 
 
