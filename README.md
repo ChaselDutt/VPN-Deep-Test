@@ -29,7 +29,7 @@
 | [cherry](https://go.chynet.net/auth/register?code=qqoY) | ★★★☆☆ | >100M | 中 | 中转 | SS | 中 | 14.5/200G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/2) |
 | [libcyber](https://d9a2c35d.lcgoto.com/register?aff_code=bd9d23b4-3052-c362-3015-44e8cc962f55) | ★★★★☆ | >100M | 低 | 中转 | SS | 高 | 12.9/30G | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 | [两元店](https://xn--5hqx9equq.com/#/register?code=642GSxns) | ★★☆☆☆ | >100M | 高 | 中转 | SS | 低 | 6/1T | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/1) |
-| [迷雾通](https://geph.io/zhs) | ★★★☆☆ | 待补充 | 待补充 | 待补充 | 待补充 | 高 | 42/无限 | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
+| [迷雾通](https://geph.io/zhs) | ★★★★☆ | 待补充 | 待补充 | 待补充 | 待补充 | 高 | 42/无限 | [**查看**](https://github.com/ChaselDutt/VPN-Deep-Test/issues/6) |
 
 <br> 
 
