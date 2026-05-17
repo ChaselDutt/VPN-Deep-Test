@@ -1,0 +1,153 @@
+2026-05-17 01:24:00 7402933790 我用香港卡长期漫游，稳如老狗
+2026-05-17 03:17:18 6867248963 问下大家，ios不支持下载怎么办
+2026-05-17 06:22:33 1809387898 自行编译rust版迷雾通
+2026-05-17 06:22:50 1809387898 可以多开，但是需要改端口，而且多开一个就增加一个设备登录
+2026-05-17 06:23:06 1809387898 https://crates.io/crates/geph5-client
+2026-05-17 06:29:39 1809387898 迷雾通在Windows使用，race机制很差，总会选择看起来延迟低的v4，但是使用体验没有v6好，而且race没法修改，现在只能等更新
+2026-05-17 06:40:38 1809387898 yaml文件在windows的c盘 temp里面
+2026-05-17 06:41:05 1809387898 race机制在Windows表现太差劲了
+2026-05-17 06:41:28 1809387898 同一局域网，安卓就选择v6，windows一直选v4
+2026-05-17 06:41:43 1809387898 现在v4桥长时间连接会断流
+2026-05-17 10:05:01 1074816863 现在利用AI利用一个人的上网时间和发帖时间以及流量波动特征综合起来考虑，太容易确定一个人了。如果全国有1000个相似的人，再多几次测试，多几次帅选，应该不难圈定一个人的行为。
+2026-05-17 10:11:08 1074816863 某个新视频可能只有几个人看过，你刚看完，家里的手机安装了微信，自然获知附近有人看过，突然电报公开群有人分享该视频，你的嫌疑自然很大。以前没有AI 的帮助分析个人行为难度势比登天，当大数据互相关联，再利用AI分析，难度是数量级的降低。
+2026-05-17 10:18:01 1083998670 在同一个设备多开之后，其他设备都连到多开设备，就不怕占有登录额度
+2026-05-17 10:43:02 1809387898 但是他是要用不同的节点
+2026-05-17 10:44:06 1083998670 一个节点开一个迷雾通
+2026-05-17 10:44:39 1083998670 你用的v2可以多出口分流的吧
+2026-05-17 10:45:48 1083998670 不同流量分到不同节点
+2026-05-17 11:20:14 988615416 应该是几年前就在app内部买的
+2026-05-17 11:21:13 988615416 这个账号目前剩余天数是我四月买的，是用微信
+2026-05-17 11:21:25 988615416 之前那个银行自动扣款似乎没到账
+2026-05-17 11:25:50 6106245449 最好就在网站里直接付费
+2026-05-17 11:25:54 6106245449 比较稳定
+2026-05-17 12:09:27 1809387898 self-compiled rust version of geph. Can open multiple instances, but need to change ports. Each instance adds a logged-in device.
+2026-05-17 12:32:23 1074816863 It's impossible to maintain a constant connection because network conditions are never perfectly stable.
+2026-05-17 12:42:25 678680519 The phone can't connect.
+2026-05-17 12:46:29 1074816863 Can't connect at all?
+2026-05-17 12:59:25 678680519 It's just that my iPhone can't connect, and Google.com shows "Unable to connect."
+2026-05-17 14:10:25 276456546 MacBook M2 version 5.7 keeps crashing.
+2026-05-17 14:48:28 1074816863 Direct answer: Geph is currently not available on the App Store in Hong Kong. Due to increasingly similar review policies between Hong Kong and mainland China, VPN and circumvention software are generally not available or have been removed from the Hong Kong App Store.
+2026-05-17 14:48:54 1074816863 Reasonably infer that Hong Kong versions of phones are not trustworthy.
+2026-05-17 14:49:26 1833137467 https://apps.apple.com/hk/app/geph-%E8%BF%B7%E9%9C%A7%E9%80%9A/id1638148282
+2026-05-17 14:49:35 1833137467 It is indeed available in Hong Kong.
+2026-05-17 14:50:38 1074816863 Artificial intelligence is messing with me.
+2026-05-17 15:08:02 7057495848 I can't find it.
+2026-05-17 15:09:13 7057495848 Other VPNs can be found.
+2026-05-17 15:13:38 7057495848 I don't see it.
+2026-05-17 15:14:05 7057495848 Phones can find it, which is strange.
+2026-05-17 16:04:51 6671609330 Hello, do you have a trial membership? I can't connect, and the trial lines are very slow, with stuttering upon connection.
+2026-05-17 16:04:58 6671609330 It's basically in a state of not being able to connect.
+2026-05-17 16:32:29 6404516969 I bought a membership, but the speed is still 100kb/s. Videos can't even load. What's going on?
+2026-05-17 17:40:21 1809387898 Download from the official website.
+2026-05-17 17:41:10 1809387898 https://dl.geph.io/geph-releases/macos-stable/5.7.1/geph-macos.dmg
+2026-05-17 17:42:53 7057495848 The computer won't open.
+2026-05-17 17:43:18 7057495848 What's wrong?
+2026-05-17 17:43:23 7057495848 Does it need a VPN to open?
+2026-05-17 17:43:43 7057495848 I've been trying for a long time.
+2026-05-17 17:44:16 7057495848 The computer doesn't have a VPN.
+2026-05-17 18:11:43 6106245449 Download directly from the official website.
+2026-05-17 18:13:08 6106245449 https://waa.ai/xiazaimiwutong
+2026-05-17 18:14:27 394796441 This short link is blocked, please send the full link directly: https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html
+2026-05-17 18:17:05 7057495848 Does this count as connected?
+2026-05-17 18:18:53 1809387898 Use the Japan node, it's fast.
+2026-05-17 18:20:28 7057495848 Is there a VPN icon on the computer?
+2026-05-17 18:20:37 7057495848 It feels like it's not connected.
+2026-05-17 18:21:39 7057495848 The plane keeps spinning.
+2026-05-17 18:35:45 1809387898 Don't use beta.
+2026-05-17 18:35:50 1809387898 Beta is unstable.
+2026-05-17 18:35:56 1809387898 Use Tokyo.
+2026-05-17 18:36:09 1809387898 Is automatic proxy configuration enabled?
+2026-05-17 18:36:19 1809387898 macOS does not have a VPN mode.
+2026-05-17 18:37:00 1809387898 Is listening on all addresses enabled?
+2026-05-17 18:37:16 1809387898 Manually set up the proxy in settings: 127.0.0.1 9910
+2026-05-17 18:40:24 8315748778 Operator whitelisting makes a difference, or perhaps the IP has been identified and blocked, but some operators block later.
+2026-05-17 18:41:24 8315748778 Add dnstt and vaydns as well 😁🌹
+2026-05-17 18:45:52 1083998670 Weekend speeds are quite good.
+2026-05-17 18:47:16 1083998670 Major AIs are responding quickly.
+2026-05-17 19:06:34 8799110290 I want to know if everyone's computer is fast. I feel that the connection is usually very slow when I use it on the computer, and the network is not fast.
+2026-05-17 19:07:03 8799110290 I want to know if everyone's computer is fast. I feel that the connection is usually very slow when I use it on the computer, and the network is not fast.
+2026-05-17 19:07:18 8799110290 I want to know if everyone's computer is fast. I feel that the connection is usually very slow when I use it on the computer, and the network is not fast.
+2026-05-17 19:08:23 8799110290 Does anyone know how to use it faster on a computer?
+2026-05-17 19:08:34 8799110290 Windows.
+2026-05-17 19:10:58 8799110290 Does anyone know how to use it faster on a computer?
+2026-05-17 19:19:50 8799110290 I want to know if everyone's computer is fast. I feel that the connection is usually very slow when I use it on the computer, and the network is not fast.
+2026-05-17 19:19:55 8799110290 I want to know if everyone's computer is fast. I feel that the connection is usually very slow when I use it on the computer, and the network is not fast.
+2026-05-17 20:51:14 1074816863 Are there any other VPNs running?
+2026-05-17 20:51:48 1074816863 How slow are you referring to?
+2026-05-17 21:01:51 1074816863 Ask the bot @GephSupportBot what's going on.
+2026-05-17 21:03:06 6056603087 Hello, I'm not sure what you mean by "ask the bot what's going on." Please send me the problem you are experiencing, including error screenshots or text, and I will do my best to help you diagnose it. If it's a Geph issue, please provide: Operating System: Windows / macOS / Android / iOS / Linux Region Network Operator Geph Version Specific error message or screenshot You can also refer to the FAQ: https://community.geph.io/t/topic/20837
+2026-05-17 21:03:24 6008209946 But it disconnects and reconnects.
+2026-05-17 21:12:09 6008209946 It's too laggy.
+2026-05-17 21:12:16 6008209946 It takes 2 seconds to send a message.
+2026-05-17 21:25:43 1833137467 Maybe try Tokyo.
+2026-05-17 21:25:46 1833137467 Or the United States.
+2026-05-17 21:25:59 6008209946 It's the same.
+2026-05-17 21:28:30 1833137467 Why don't you try building your own?
+2026-05-17 21:28:52 6008209946 I don't know how.
+2026-05-17 21:29:04 6008209946 I don't understand why it's so slow.
+2026-05-17 21:30:41 1833137467 https://youtu.be/chcFg878840?si=urGg0GxnNRgyCeWJ
+2026-05-17 21:32:05 6008209946 Okay, this really doesn't work. There's nothing I can do.
+2026-05-17 22:00:37 1809387898 Enable IPv6.
+2026-05-17 22:11:05 1074816863 I just tested and got 70Mbps.
+2026-05-17 22:29:50 2068599407 Hooray. From Russia with love! ;)
+2026-05-17 22:31:31 1833137467 Are you from the Russian Federation?
+2026-05-17 22:32:14 2068599407 Yes. My china friends ;)
+2026-05-17 22:33:49 2068599407 One VPN that works for me now. Fck system cenz ;)
+2026-05-17 22:35:16 1833137467 Ten years ago, Russia was still a country with a very open internet, and many Chinese people used Russian servers to set up VPNs to bypass internet restrictions.
+2026-05-17 22:35:47 1833137467 At the time, we were envious that Russians could use Apple Pay (Visa and Mastercard).
+2026-05-17 22:37:34 2068599407 Such things. Ten years ago, Russian internet was the best ever. Now - complete crap.
+2026-05-17 22:41:27 6008209946 I set one up myself, and it's indeed fast.
+2026-05-17 22:41:42 6008209946 But won't my IP be leaked?
+2026-05-17 22:42:38 1833137467 I'm speechless, it's not fast at all, but at least it works.
+2026-05-17 22:43:06 6008209946 At least it's better than Geph.
+2026-05-17 22:43:17 6008209946 Geph is a few hundred KB.
+2026-05-17 22:43:40 2068599407 RF is a very cool country. Putin is a nice war person.
+2026-05-17 22:45:16 1074816863 I tested it at 70.
+2026-05-17 22:46:07 6008209946 I reinstalled it, still no good.
+2026-05-17 22:47:27 2068599407 What I know about China - deepseek :))
+2026-05-17 22:48:23 2068599407 Soviet Union, f*** Europe and USA in all holes ;)
+2026-05-17 22:50:47 2068599407 RF is a very cool country. Putin is a nice war person.
+2026-05-17 22:54:35 1809387898 Enable IPv6.
+2026-05-17 22:55:54 6008209946 How do I enable it?
+2026-05-17 22:59:05 6008209946 How do I enable it?
+2026-05-17 23:00:48 1833137467 You should try disabling "Allow Direct Connection."
+2026-05-17 23:03:53 1833137467 Why don't you try speedtest?
+2026-05-17 23:04:39 1809387898 Do you even know how to use it...?
+2026-05-17 23:04:50 1809387898 speedtest.net
+2026-05-17 23:05:05 6008209946 Can't open it.
+2026-05-17 23:05:33 1809387898 Enable split tunneling and bypass mainland China.
+2026-05-17 23:05:46 1809387898 Turn off global mode.
+2026-05-17 23:05:50 1809387898 Reconnect.
+2026-05-17 23:05:59 1833137467 What kind of network do you have?
+2026-05-17 23:06:08 1809387898 Are you on China Mobile?
+2026-05-17 23:06:23 6008209946 China Telecom.
+2026-05-17 23:06:39 1809387898 Disable "Allow Direct Connection."
+2026-05-17 23:06:54 1809387898 Try reconnecting with these 3 options checked as I have them.
+2026-05-17 23:07:12 1809387898 Try connecting to Hong Kong, Taiwan, and San Jose in the US nodes.
+2026-05-17 23:10:38 6008209946 My broadband has 100mbps upload and 20mbps download.
+2026-05-17 23:12:49 2068599407 Oh. Just noticed a Russian topic here :)
+2026-05-17 23:13:18 6106245449 Upload 100, download 20?
+2026-05-17 23:13:24 6106245449 What kind of weird broadband is that?
+2026-05-17 23:15:51 6008209946 That's what China Telecom staff told me.
+2026-05-17 23:17:15 6106245449 Meaning download is at most 20.
+2026-05-17 23:17:31 6008209946 Mhm.
+2026-05-17 23:17:32 6106245449 Did they get that backward?
+2026-05-17 23:17:59 6106245449 Is it specifically for pcdn?
+2026-05-17 23:18:33 6008209946 I don't know anymore.
+2026-05-17 23:25:49 1809387898 What's going on?
+2026-05-17 23:25:59 1809387898 Can you log in to China Telecom to check your broadband package?
+2026-05-17 23:26:03 1809387898 Are you sure?
+2026-05-17 23:26:39 1809387898 If the download is 20mbps, then a speed of 20 is not surprising, but how did you get this package?
+2026-05-17 23:26:55 1809387898 Did you make a mistake?
+2026-05-17 23:28:13 6294155685 It's been half an hour of connecting 😂
+2026-05-17 23:28:58 6008209946 I didn't get the package; I asked a China Telecom staff member. Someone else got it. The staff member knows our package.
+2026-05-17 23:29:02 6008209946 That's what they said.
+2026-05-17 23:35:31 1833137467 You should just use this one, really.
+2026-05-17 23:35:56 6008209946 No, it's unstable.
+2026-05-17 23:36:27 1833137467 Why don't you disconnect the VPN and check your internet speed directly?
+2026-05-17 23:51:14 1809387898 You must have made a mistake.
+2026-05-17 23:51:21 1809387898 100mbps download, 20mbps upload.
+2026-05-17 23:51:27 1809387898 This broadband is inherently small.
+2026-05-17 23:51:49 1809387898 Also, China Telecom's international bandwidth is small, and on top of that, your broadband is already a debuffer.
+2026-05-17 23:51:56 1809387898 It's best to use China Unicom for VPNs.
+2026-05-17 23:52:55 1809387898 China Unicom can achieve the maximum speed of 1000mbps on Geph's Tokyo node.
