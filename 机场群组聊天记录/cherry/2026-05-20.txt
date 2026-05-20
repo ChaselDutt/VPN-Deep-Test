@@ -1,0 +1,1 @@
+2026-05-20 23:05:55 544707528 @cherrylink_vpn 群主，为什么openclash用Fake-IP 模式模式香港节点全部爆炸，模式Redir-Host就能使用。
