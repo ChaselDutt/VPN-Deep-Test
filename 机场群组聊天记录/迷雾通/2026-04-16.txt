@@ -1,39 +1,23 @@
 2026-04-16 00:04:54 5502794609 geph连不上啊
 2026-04-16 00:05:14 5502794609 直接被墙了
-2026-04-16 00:06:29 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 00:10:08 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 00:11:38 1349384370 Buy the North, they're all blocked in Russia.
 2026-04-16 00:14:51 1890462988 居然有這種事，是何原理。
-2026-04-16 00:21:15 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 00:26:41 7523820993 anywat_21092已更新：Geph v5.6.0-beta.0
-2026-04-16 00:36:28 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 00:43:03 1083998670 看运行代码，似乎instance server全部连不上后就断开了，无法自动重新获取
-2026-04-16 00:56:26 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 00:58:04 8415519790 meek？
-2026-04-16 00:59:42 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 01:10:20 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 01:11:03 8371965201 俄罗斯的防火墙和中国有什么区别吗?
-2026-04-16 01:21:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 01:25:43 7523820993 kyuu121迷雾通又连不上了
 2026-04-16 01:26:09 7523820993 kyuu121那现在建议更新5.6.0吗
 2026-04-16 01:26:18 7523820993 kyuu121现在没法连接
-2026-04-16 01:34:14 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 01:37:22 7523820993 kyuu121意思是不要更新吗
 2026-04-16 01:37:34 7523820993 kyuu121更新5.6.0付费变免费
 2026-04-16 01:37:41 7523820993 kyuu121还好没更新，哈哈
-2026-04-16 01:37:49 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 01:41:09 705667859 试了下我这5.5也是可以的
 2026-04-16 01:41:36 705667859 但有过别的vpn遇到过低版本行高版本不行
-2026-04-16 01:50:36 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 01:53:15 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 01:58:35 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 02:04:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 02:15:33 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 02:18:25 7523820993 kyuu121proton很稳，但是不敢付费，一付费就连不上
 2026-04-16 02:27:32 1036944086 大家试一试5.6.0 beta，反馈一下有没有什么问题，特别是5.5连接不稳的用户，有没有改进
 2026-04-16 02:28:07 1036944086 不是这样的，你估计是看错了
 2026-04-16 02:29:26 7281646792 在不了解就晚了
-2026-04-16 02:29:44 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 02:30:21 7281646792 是谁走漏了风声说找我安全靠谱的
 2026-04-16 02:32:14 7281646792 广告打的好-不如做的好
 2026-04-16 02:32:33 5036305728 5.6.0beta连不上，5.5.0能连上
@@ -42,33 +26,10 @@
 2026-04-16 02:34:10 5036305728 5.6.0beta连不上，5.5.0能连上
 2026-04-16 02:36:43 5036305728 5.6.0beta连不上，5.5.0能连上
 2026-04-16 02:45:20 6230318520 用的是 https://github.com/geph-official/gephgui-wry/blob/master/src/default-config.yaml
-2026-04-16 02:59:54 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 03:09:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 03:14:04 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 03:21:08 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 03:28:03 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 03:45:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 03:49:12 109362857 這個不行，完全連不上
 2026-04-16 03:50:38 109362857 5.5.0 是偶爾會斷一陣子，過一會起碼還是可以再連上的，這個完全連不了
-2026-04-16 04:14:36 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 04:22:13 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 04:27:49 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 04:43:48 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 05:13:24 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 05:16:11 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 05:22:32 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 05:37:26 7596769244 Very nice
 2026-04-16 05:52:20 7832523350 okey
-2026-04-16 05:52:56 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:08:25 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:11:14 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:14:50 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:25:48 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:31:55 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 06:36:06 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 07:22:48 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 07:40:01 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 07:47:05 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 08:13:17 883530294 报告问题，geph又大范围断网，
 2026-04-16 08:22:32 7832523350 yes
 2026-04-16 08:22:40 1083998670 还是得在docker运行迷雾通，避免迷雾通依赖自己
@@ -84,21 +45,15 @@
 2026-04-16 08:46:29 8316035477 你们中国人真的会毫不留情地埋葬死者吗？ 呵呵 我简直不敢相信。 我一直都对你印象很好。 这怎么可能？我简直不敢相信。
 2026-04-16 08:47:26 8316035477 好的，我会照办。 但这真的是真的吗？
 2026-04-16 08:49:21 1074816863 迷雾通除了给中国人翻墙，同时要帮助世界上仍有网络封锁环境的人获得信息自由。
-2026-04-16 08:50:08 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 08:50:31 8316035477 哇，我真的很佩服。 我也会帮忙。 我很乐意参与这样的活动。
 2026-04-16 08:50:59 1074816863 你刚才说的是真的
 2026-04-16 08:51:43 8316035477 谢谢
 2026-04-16 08:51:54 1074816863 你是外国人？
 2026-04-16 08:58:06 1074816863 几位参与修法著名的律师包括许志永和腾彪，他们两个一个在坐牢一个跑到美国
 2026-04-16 09:14:27 7523820993 anywat_21092v5.6.0-beta.1 https://github.com/geph-official/gephgui-pkg/releases/tag/v5.6.0-beta.1
-2026-04-16 09:59:32 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 10:14:51 1890462988 我的安卓手機能看到各節點網絡佔用率，每次啟動也能刷新佔用率數據，但就是無法連接。好奇怪。
-2026-04-16 10:24:54 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 10:35:13 1211454034 https://t.me/AzirProxyBot?start=1211454034
-2026-04-16 10:36:07 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 10:38:33 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 10:42:38 489725149 可能反饋端給了假的流量信息
-2026-04-16 11:01:02 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 11:02:30 705667859 有个套娃的现象
 2026-04-16 11:02:49 705667859 就是代理人权 维权这类的律师
 2026-04-16 11:03:15 705667859 被抓了判刑 然后另一个帮他辩护 又被抓了判刑 然后另一个
@@ -114,20 +69,10 @@
 2026-04-16 12:01:42 8736955250 普通中国人技术移民的路已经堵死了
 2026-04-16 12:05:22 8636607035 Hola
 2026-04-16 12:18:47 1742657916 大减价
-2026-04-16 12:26:30 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 12:35:19 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 12:39:14 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 12:40:34 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 12:51:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 12:56:14 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 13:02:22 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 13:22:23 1261193061 windows下测试。和5.5.0一样不稳定
-2026-04-16 13:30:49 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 13:40:45 7523820993 anywat_21092有了特供（特别的人工，供应迷雾通），V5.4.1/5.5.0一样正常：高速且稳定
 2026-04-16 13:41:39 7523820993 anywat_21092除了发布v5.5.0之前或后某个时间点连不上一会儿（或许是服务器调整），前2天每几分钟就掉线、加Nekobox 解决，其它时间基本正常。。。
 2026-04-16 13:51:28 7523820993 anywat_21092此前刚刚用回V5.4.1，海口先出，如事与愿违再来修改。哈哈哈
-2026-04-16 13:55:00 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 13:56:16 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 14:01:22 1036944086 我都结婚了 😊
 2026-04-16 14:02:42 1261193061 大佬，我从2019年就买会员支持迷雾通到现在
 2026-04-16 14:03:23 1261193061 最近的不稳定具体什么原因。我对您很有信心的
@@ -140,7 +85,6 @@
 2026-04-16 14:09:41 119903570 All DNS in the world can't connect to the global internet because of this.
 2026-04-16 14:09:48 7832523350 Bro, did you send this from Iran?
 2026-04-16 14:09:56 119903570 Yes
-2026-04-16 14:10:05 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 14:10:07 119903570 After 40 days
 2026-04-16 14:10:15 5085681196 Yes
 2026-04-16 14:11:03 1833137467 So, can the Islamic Republic of Iran currently use Starlink?
@@ -151,29 +95,22 @@
 2026-04-16 14:14:04 5085681196 Apparently it's illegal but some people still use it
 2026-04-16 14:15:41 7832523350 Ha ha
 2026-04-16 14:16:02 8125563514 最新測試win11可以連接還是會掉，android連接困難，頻繁掉 @thisbefruit
-2026-04-16 14:16:21 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 14:16:23 5085681196 Doesn't work for me anymore
 2026-04-16 14:16:39 119903570 Not working any more
 2026-04-16 14:17:31 8125563514 5.5.0 付費
 2026-04-16 14:19:06 119903570 @nullchinchilla do you have any idea ?
 2026-04-16 14:36:49 1833137467 其实我觉得不是移民去自由没墙的国家难，是移民去自由没钱还比中国生活好的国家难
 2026-04-16 14:38:59 1833137467 中南美州和黑非洲大多数国家其实也没互联网审查，但是但是大家都不想去
-2026-04-16 15:00:39 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 15:01:33 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 15:03:45 802173924 试试群里的 5.6.0 测试版？
 2026-04-16 15:12:09 8125563514 5.6.0沒有安卓版本
-2026-04-16 15:14:44 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 15:16:17 7832523350 点置顶消息
 2026-04-16 15:17:49 8125563514 置頂的是windows版本啊
 2026-04-16 15:22:27 7523820993 nullchinchilla看看windows上是否掉线比之前更轻？
-2026-04-16 15:22:44 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 15:32:31 145951961 /register
 2026-04-16 15:33:19 145951961 /deregister
 2026-04-16 15:33:26 145951961 /register
-2026-04-16 15:36:39 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 15:41:33 1083998670 白天总是挺稳的
 2026-04-16 15:41:51 1083998670 晚上就不大行
-2026-04-16 15:46:11 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 15:49:27 1083998670 speedtest有80兆，但twitter load图和视频比较卡
 2026-04-16 15:49:40 1083998670 台湾线路
 2026-04-16 15:50:25 1083998670 其他网站倒是问题不大
@@ -191,7 +128,6 @@
 2026-04-16 16:16:37 1083998670 说明其他梯子依赖迷雾通来对接
 2026-04-16 16:22:23 7523820993 anywat_21092运行有 dnscrypt-proxy 来弃用DNS1.92.168.1.1网络：公用网络属性：链路层拓扑发现响应程序。。。关闭还删除了猫的那啥啥系统定位：关闭迷雾通设置：全关闭迷雾通与其它代理同时正常运行。。。
 2026-04-16 16:22:40 7523820993 kyuu121这个版本现在可以正常用了吗？昨晚的beta，付费会变免费
-2026-04-16 16:23:04 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 16:23:49 7523820993 anywat_21092付费变免费，乃人为错误。。。
 2026-04-16 16:27:09 7523820993 anywat_21092没有后置的 V5.4.1 已正常3小时，V5.5.0应该也是。。。
 2026-04-16 16:29:12 8125563514 不是同一個梯子 是其他機場 其他設備 用的規則模式 迷霧通關閉全局 監聽 自動配置 迷霧通一開其他設備的不同梯子還是會掉線
@@ -200,11 +136,8 @@
 2026-04-16 16:35:14 8125563514 Win11 5.6.0 beta2無法使用 開啟直連關閉直連都無法使用 安卓 5.5.0無法連接
 2026-04-16 16:35:27 8125563514 請求退款
 2026-04-16 16:41:15 8125563514 @nullchinchilla  @thisbefruit
-2026-04-16 16:43:14 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 16:48:08 8125563514 其他設備的clashmeta確實會掉線 特別是迷霧通長時間無法連接成功的時候
-2026-04-16 16:53:10 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 16:54:48 7523820993 kyuu121发邮件申请，附带账号和购买记录
-2026-04-16 16:55:10 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 16:55:24 7523820993 kyuu121正常使用不会变？
 2026-04-16 16:55:33 7523820993 kyuu121好奇你是怎么弄的
 2026-04-16 16:56:01 8125563514 購買記錄找不到了 wechat和alipay的都有
@@ -216,7 +149,6 @@
 2026-04-16 17:01:13 7523820993 kyuu121没有卸载
 2026-04-16 17:01:27 7523820993 kyuu121最好完全卸载后重新安装？
 2026-04-16 17:01:50 7523820993 anywat_21092试试又不会44
-2026-04-16 17:03:15 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 17:03:20 8125563514 购买记录大部分当时删除了  只有迷雾通帐号
 2026-04-16 17:04:00 7523820993 kyuu121你没购买记录，那怎么退款呢？
 2026-04-16 17:04:26 7523820993 kyuu121你没购买记录那怎么退款？
@@ -258,10 +190,8 @@
 2026-04-16 17:16:00 7523820993 kyuu121而且也是免费的
 2026-04-16 17:17:32 7523820993 kyuu121https://github.com/ProtonVPN/android-app/releases/download/5.17.21.0/ProtonVPN-5.17.21.0.605172100.-production-vanilla-direct-release.apk
 2026-04-16 17:17:38 7523820993 kyuu121试一下吧
-2026-04-16 17:28:57 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 17:42:37 8736955250 中国知识分子和中产移民最大的问题是这部分人生活质量实际上和第一世界相近但是收入差距过大
 2026-04-16 17:43:14 8736955250 这种一般不探讨，根本不适用绝大多数人
-2026-04-16 17:54:06 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 17:57:10 8736955250 对于初代移民普通百姓来说移民outlook不如印度人
 2026-04-16 18:12:44 1833137467 实际上大多数中国人来日本之后的工作都和中国人有关系，因为这是他们唯一相对本土日本人的优势🌚
 2026-04-16 18:13:21 1833137467 房屋中介啊 运营商营业厅啊 还有麻辣烫和中餐店 还有私塾什么的
@@ -275,7 +205,6 @@
 2026-04-16 18:28:58 1833137467 中国人每年归化差不多3000人 印度人在那个其他里面
 2026-04-16 18:36:24 889147693 亚洲似乎都很讨厌印度人，香港也讨厌、台湾也讨厌、中国就更不用说了
 2026-04-16 18:36:59 1833137467 emmm，我没和他们讨论过这个倒是🌚
-2026-04-16 18:39:00 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 18:39:13 1833137467 During this special period, it is essential to ensure your safety.
 2026-04-16 18:40:09 7523820993 anywat_21092迷雾通V5.4.1、5.5.0都正常，暂时未用V5.6.0
 2026-04-16 18:41:16 1833137467 但是老实说，日本人讨厌印度人对中国移民是好事，因为他们只能捏着鼻子选中国人…
@@ -283,7 +212,6 @@
 2026-04-16 18:42:25 7523820993 anywat_21092在Win10 旧机上运行比较艰难的 protonvpn 在较新Win11 机器上还可以。
 2026-04-16 18:42:45 6106245449 也不公告让我给你包个红包
 2026-04-16 18:43:45 8125563514 @thisbefruit  私信了赶紧看一下 开发者在不在？抓紧修复！！！
-2026-04-16 18:46:05 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 18:46:32 5231601335 速度这么慢？是puls啊！？？？？？？？？？？？？？？？？
 2026-04-16 18:46:54 5231601335 啥玩意啊 这东西，
 2026-04-16 18:47:46 5231601335 也没人？？客服也不在？？
@@ -299,7 +227,6 @@
 2026-04-16 19:08:27 7523820993 anywat_21092HK：D/U 103/52
 2026-04-16 19:09:03 5078475250 搬去客廳睡?
 2026-04-16 19:13:53 7523820993 anywat_21092https://discord.com/channels/784822842285490237/1224362564314599535/1493244350505680976
-2026-04-16 19:15:58 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 19:16:02 1074816863 主要是运营商干扰太厉害了
 2026-04-16 19:16:30 7523820993 kyuu121迷雾通就两个人，而且还有12小时时差
 2026-04-16 19:16:48 7523820993 kyuu121说了，用protonvpn
@@ -326,7 +253,6 @@
 2026-04-16 19:40:08 7764294945 So only starlink is the best way to connect to the Internet in Iran?
 2026-04-16 19:40:26 7764294945 Am I right?
 2026-04-16 19:40:36 1833137467 我给我爸妈搞了一个，放他们手机上翻墙，他们也搞不懂技术啥的
-2026-04-16 19:41:07 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 19:41:27 5085681196 idk what they are tunneling but its probably starlink, yeah
 2026-04-16 19:48:43 1833137467 话说你手机有esim不
 2026-04-16 19:49:12 5085681196 There are other reasons for why they block everything, I'm sure they want to censor news
@@ -334,11 +260,9 @@
 2026-04-16 19:50:18 6236523239 GFW还是太强大了
 2026-04-16 19:53:49 6106245449 用一台垃圾手机一直播放广告无限拿时间
 2026-04-16 19:54:28 1833137467 It was initially prepared for earthquakes.
-2026-04-16 19:54:59 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 19:55:34 7832523350 I'm using v2rayNG right now as well; Geph is unstable.😀
 2026-04-16 19:55:59 8125563514 用不成protonvpn 5.5.0 5.6.0都不行
 2026-04-16 19:57:08 8125563514 @nullchinchilla  @thisbefruit  看私信
-2026-04-16 19:58:11 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 19:58:38 8125563514 我这边95％以上机场几乎都用不成
 2026-04-16 19:58:55 7832523350 你在新疆肯定不行，proton vpn在浙江也很吃力
 2026-04-16 19:59:10 8125563514 这边不是你能想象的
@@ -352,7 +276,6 @@
 2026-04-16 20:01:50 7764294945 有的 我用的pixel
 2026-04-16 20:01:58 8125563514 Tg本身是俄羅斯的，群聊不支持e2ee不安全 尤其是這群 你懂的
 2026-04-16 20:02:12 1833137467 草 搞个firsty
-2026-04-16 20:02:53 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 20:05:51 1833137467 我还记得我高中的时候，给电脑重新安装了个系统，然后tm发现下载翻墙软件要翻墙
 2026-04-16 20:06:01 1833137467 对
 2026-04-16 20:06:38 7832523350 你应该是没做好护基本防控吧，要专机专用 Williams Elizabeth
@@ -362,7 +285,6 @@
 2026-04-16 20:12:04 8125563514 3月31日一直挂到今天 迷雾通有没有能力修复阿 @nullchinchilla
 2026-04-16 20:12:46 1074816863 换运营商，联通最好
 2026-04-16 20:13:00 8248514069 老板能不能考虑出一个哪怕是加钱的，提供干净ip的功能😂
-2026-04-16 20:13:59 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 20:14:09 8125563514 电信特殊地区 开发者能出来说一下吗？
 2026-04-16 20:15:18 1833137467 怎么样
 2026-04-16 20:15:55 6106245449 😳😳😳是吗，刚认识的时候好像还没有女朋友来着
@@ -379,9 +301,7 @@
 2026-04-16 20:22:29 1890462988 專用ip?用這麼高級的vpn,做跨境電商?不如嘗試自建。
 2026-04-16 20:22:35 8125563514 奶昔？
 2026-04-16 20:22:58 8248514069 具有什么样的ip不是十分重要，能不被一下网站判定为代理ip，因而无法使用哲学网站，也就可以了
-2026-04-16 20:22:59 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 20:23:46 1833137467 草？
-2026-04-16 20:24:09 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 20:24:24 1890462988 有那種vpn,我就在用。
 2026-04-16 20:24:57 7764294945 不支持香港节点的原因吗？我到时候换个节点看看
 2026-04-16 20:25:16 1833137467 我也不知道为啥…
@@ -449,7 +369,6 @@
 2026-04-16 20:44:11 1074816863 我朋友用AI，给迷雾通增加了前置
 2026-04-16 20:47:18 8125563514 不会后置
 2026-04-16 20:49:22 1074816863 最新编译的没有GUI？
-2026-04-16 20:50:02 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 20:50:10 5767765378 迷雾稳定性怎么样
 2026-04-16 20:50:12 7523820993 anywat_21092https://discord.com/channels/784822842285490237/1224362564314599535/1492325026291257548
 2026-04-16 20:50:55 1074816863 王婆卖瓜
@@ -461,24 +380,18 @@
 2026-04-16 20:53:36 1074816863 不知道，听朋友说，没问具体
 2026-04-16 20:53:42 6106245449 前置一个reality 吗
 2026-04-16 20:54:56 1083998670 用passwall里的xray可以加前置
-2026-04-16 20:59:11 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 20:59:55 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:03:33 145951961 我终于连上了。这个也不稳定，我在5.5.0终于连上的时候下载的5.6.0 beta 2。更新5.6.0 beta 2测试版后一直断连，刚刚才连上。
-2026-04-16 21:04:51 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 21:05:46 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:07:22 7523820993 anywat_21092貌似：https://discord.com/channels/784822842285490237/1224362564314599535/1494316930104955111
 2026-04-16 21:08:17 145951961 我一直开着vm的，可是不知道我的vm有没有连上迷雾通的服务器。
 2026-04-16 21:09:42 6106245449 @nullchinchilla 其实网警也可以跑个虚拟机然后去封虚拟机到GEPH的链路导致你那边无法连过来吧
 2026-04-16 21:10:06 1833137467 @Yki031 @Dylanli95 话说你们两个喜欢二次元吗
 2026-04-16 21:10:52 145951961 最近各个版本都被墙了，都不稳定。作者正在修，可以等等看之后会不会补偿时间。
 2026-04-16 21:12:30 7523820993 kyuu121greatgod，可以告诉我一下吗？怎么设置，让迷雾通可以稳定连接日本节点，是需要设置host吗？
-2026-04-16 21:13:31 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:13:40 1742657916 不想收拾了
 2026-04-16 21:13:40 7523820993 kyuu121我刚刚把迷雾通的允许直连关闭了，现在用的是最新的v2ray，现在延迟从300降低到140，并且discord比之前稳定了一点，丢包很少
 2026-04-16 21:14:12 1083998670 你用哪一种迷雾通
 2026-04-16 21:14:17 7523820993 kyuu121最新的
 2026-04-16 21:14:22 7523820993 kyuu1215.6.0 beta2
-2026-04-16 21:14:38 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:15:19 7523820993 anywat_21092哪个系统的。。。
 2026-04-16 21:15:27 7523820993 kyuu121我一直都是Windows
 2026-04-16 21:15:51 7523820993 kyuu121说来奇怪，我这里Windows反而能稳定连接
@@ -538,7 +451,6 @@
 2026-04-16 21:35:21 7523820993 kyuu121选的是socks5 本地127ip 端口9909
 2026-04-16 21:35:31 7523820993 kyuu121其余默认设置
 2026-04-16 21:35:33 8397003963 这么不稳定都不敢用claude了，刚充的会员
-2026-04-16 21:35:47 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:35:52 7523820993 kyuu121请问greatgod，这个怎么设置进行避免
 2026-04-16 21:35:59 1742657916 你指定dns到Google或者cf就完了
 2026-04-16 21:36:10 1742657916 你要有私人dns更好
@@ -587,7 +499,6 @@
 2026-04-16 21:46:37 1833137467 不要相信什么二次元学校的可以下午三点放学啊 有社团活动啊 可以谈恋爱啊，如果你真信了，来日本一看你就会发现，都是真的🌚
 2026-04-16 21:46:39 7523820993 kyuu121现在expressvpn也不服务中国大陆了
 2026-04-16 21:46:48 7523820993 kyuu121对抗太难
-2026-04-16 21:46:52 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:47:00 1083998670 不是，感觉是你的v2让迷雾通自己代理了自己
 2026-04-16 21:47:07 1833137467 经常在便利店里面看到给女朋友梳头发的高中生
 2026-04-16 21:47:28 8125563514 安卓5.5.0完全无法使用 windows 11 5.6.0 beta2 连接特别慢 频繁掉 在极端的垃圾网络下无法使用
@@ -604,15 +515,11 @@
 2026-04-16 21:53:52 1083998670 之前迷雾通的桥不容易断，所以一直没事
 2026-04-16 21:53:53 7523820993 kyuu121搬家到正常城市，或者移民到其他国家
 2026-04-16 21:54:02 7523820993 kyuu121新疆管的太严了
-2026-04-16 21:55:09 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:56:31 8397003963 真行了~ 稳定运行几分钟了
-2026-04-16 21:56:33 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 21:57:42 8125563514 急得都要发疯了 付费远程也行
 2026-04-16 21:58:30 8125563514 开发者请抓紧时间修复阿
 2026-04-16 21:59:20 1261193061 beta2没改善
 2026-04-16 22:00:29 8125563514 Beta2什麼用都沒有
-2026-04-16 22:07:50 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 22:10:48 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 22:11:21 8125563514 麻烦删除一下地名 管理
 2026-04-16 22:11:28 8125563514 @GephDiscordTelegramBridgeBot
 2026-04-16 22:11:47 8125563514 谢谢
@@ -625,8 +532,6 @@
 2026-04-16 22:33:55 7523820993 kyuu121https://github.com/ProtonVPN/android-app/releases/download/5.17.21.0/ProtonVPN-5.17.21.0.605172100.-production-vanilla-direct-release.apk
 2026-04-16 22:41:16 8125563514 用不成protonvpn 能不能把我的地名删掉
 2026-04-16 22:41:51 1950503275 /gift
-2026-04-16 22:44:30 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
-2026-04-16 22:54:56 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 22:56:07 1074816863 能不能把命令行的VPN模式一个样本发在群里？
 2026-04-16 22:56:59 8125563514 Wow 麻烦帮忙删除一下地名 谢谢
 2026-04-16 22:58:00 1074816863 上面的聊天记录？如果删除全部都没了
@@ -634,7 +539,6 @@
 2026-04-16 23:02:22 1074816863 没看到地名
 2026-04-16 23:03:31 8125563514 Xj 删除一下
 2026-04-16 23:05:06 883530294 請問有人在大陸用過surfshark嗎？
-2026-04-16 23:05:16 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:05:30 1833137467 之前买过，退款了
 2026-04-16 23:05:37 883530294 這個App在大陸效果怎樣？
 2026-04-16 23:05:42 8397003963 没用过
@@ -661,10 +565,8 @@
 2026-04-16 23:15:29 883530294 謝謝👍
 2026-04-16 23:15:34 1833137467 你如果是常来内地，想把流量留着下次用的话
 2026-04-16 23:15:36 1833137467 https://esim.cmlink.com/zh_CN/gogochina
-2026-04-16 23:15:36 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:16:30 1833137467 最便宜的是 199CNY 300GB 一个月
 2026-04-16 23:17:20 8397003963 再稳定看看，不行就要转了
-2026-04-16 23:19:06 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:19:47 5968617163 便宜的可能不能上chatgpt/tiktok各种麻烦，买之前一定要看好了。不过，我觉得迷雾通足够，备用一个v2ray。免费高速不限量，更合适。
 2026-04-16 23:20:31 1809387898 和这个有一定关系
 2026-04-16 23:20:57 1074816863 管理是不是官方？
@@ -675,10 +577,8 @@
 2026-04-16 23:21:30 7258914403 你们的迷雾通还能用吗
 2026-04-16 23:21:46 1833137467 我在东京（
 2026-04-16 23:21:56 1833137467 我拿这个软件是绕宿舍审查的
-2026-04-16 23:22:01 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:22:13 7258914403 好吧，最近好像有什么行动，不同能用了
 2026-04-16 23:22:42 1833137467 是的，中转机房国内也在查
-2026-04-16 23:23:30 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:23:54 7258914403 这是什么
 2026-04-16 23:24:13 7258914403 点开让加群，已经在群里了啊
 2026-04-16 23:24:26 1074816863 尽量不要直连暴露自己
@@ -691,13 +591,10 @@
 2026-04-16 23:27:59 7258914403 这次发生了什么，好几个vpn都不能用了
 2026-04-16 23:28:53 7258914403 甚至一些大学的vpn都不能用了，用一些大学的资源现在都很困难
 2026-04-16 23:32:39 1074816863 去综合聊天子群聊，这里主要反馈网络情况
-2026-04-16 23:32:41 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:32:56 1833137467 CMLINK在访问Google和cloudflare的时候会用中国移动新加坡的IP，这样就能用gemini和ChatGPT这些AI了
 2026-04-16 23:34:29 1833137467 （PS：这也是为什么我觉得美国某AI公司试图阻止中国政府蒸馏它的操作必然失败的理由，真觉得中国缺少海外代理人还是咋的）
-2026-04-16 23:35:30 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:46:57 1027300149 所以现在是正在行动吗
 2026-04-16 23:47:07 1027300149 感觉这几天突然不稳定
 2026-04-16 23:49:26 7523820993 kyuu121建议试试beta2，beta2确实变稳定了，晚上高峰期也没有断
-2026-04-16 23:51:20 210944655 Welcome to Official Geph Users! Get 1 day free Plus by messaging GephGiftcardBot欢迎加入迷雾通官方用户群！私信 GephGiftcardBot 领取 24 小时免费 Plus！
 2026-04-16 23:51:29 7946048113 開完會到現在一直在嚴打
 2026-04-16 23:51:41 7946048113 力度還是比較大的
