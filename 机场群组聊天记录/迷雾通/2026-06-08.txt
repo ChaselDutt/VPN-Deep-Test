@@ -1,0 +1,70 @@
+00:51 U0993: kyuu121换成了自己从github编译的特定版本源码，一直稳定到现在，64也没断过，就是速度有点慢；kyuu121现在是默认配置
+00:52 U7898: 5.7.1已经不用更新webview了，5.7.1针对旧版webview有兼容处理；就是显示得有点难看
+00:54 U7898: 其实可以自己从github编译Windows版的rust二进制迷雾通，非常稳定，并且可以多开，需要自己设置一下，问一下ai就好了，现在开了日本和台湾；rust二进制版，比gui版本稳定很多
+00:55 U2174: سلام لطفا برای قطعی اینترنت v2rayng بدید
+00:56 U2174: قطعی نزدیک است
+01:06 U6743: /gift_for_persian_dariush；/gift_for_sos iran_dariush；/gift_for_persian_sos
+01:07 U0993: kyuu121就是有个缺点，yaml里的key，有效期大约是一星期多一点，过期后只能手动运行gui从c盘找到yaml替换，目前不知道有没有其他办法可以刷新key
+01:30 U2174: سلام ادمین نسخه ویندوز رو  ارسال کنید لطفا تو تل
+02:44 U2990: /gift_for_persian_people
+03:27 U0204: /gift_for_persian_people
+03:34 U6743: /gift_for_persian_sos
+03:49 U2648: /gift_for_persian_people；/gift_for_persian_sos
+03:53 U2174: کانفینگ پولی الان میشه گیگی یک میلیون تومن
+04:13 U3974: /gift_for；/gift_for
+04:30 U6180: /gift_for_persian_people
+04:37 U7707: /gift_for_persian_people
+         U6159: /gift_for_persian_people
+04:39 U7196: /gift_for_persian_people；/gift_for_persian_people
+04:40 U2560: اندروید
+05:18 U5614: /gift_me_im_a_wise_moneky；/gift_for_persian_people
+06:22 U2432: /gift_for_persian_people
+06:28 U2432: /gift_for
+07:03 U6863: 既然这样，开发者为什么也这样做，让用户不好的体验？
+07:32 U5449: 稳定性其实是一样的，后端毫无区别
+09:11 U4587: Pvn
+09:18 U0993: anywat_21092过期后只能手动运行gui从c盘找到yaml替换：既已默认，何来过期？
+09:32 U2755: 问一下，ios27咱们是不是没有适配m3芯片？
+09:33 U2755: 如果这样的话我就先不升级了；ios27咱们这个app是不是不支持啊
+09:34 U2755: 我看要管什么网络协议和全面适配m3芯片
+09:52 U2174: ستون منظورم دان از اینجا بود
+10:23 U0161: 为什么连了好多线路都连接不上；只有新加坡可以用
+12:07 U1871: /gift_for_persian_people；/gift_for_persian_people
+13:28 U3127: /gift_for_persian_people
+13:44 U3127: 最近时不时断连吗，连接要点几次才连的上
+14:39 U8481: /gift_for_persian_people
+14:51 U7311: /gift_for_persian_people；hey
+16:09 U8696: mac端链接不了咋回事
+16:10 U8696: 显示链接了，但是打不开网址
+16:19 U6775: دوستان. رستم vpn هم خوبه
+17:03 U7311: حوصله💔🙏
+17:07 U9081: /gift_for
+17:11 U5149: 连接不稳定
+17:17 U3952: mac端设备码时候上线全局vpn，发现现在用antigravity无法连接，换成clash用虚拟网络加全局就可以
+17:21 U7572: /gift_for
+17:29 U3963: Us好多节点用不了呀 帮忙别乱换 cc容易被封
+17:30 U3963: Us好多节点用不了呀 帮忙别乱换 cc容易被封
+17:36 U7997: 为什么使用迷雾通节点会出现SSL连接错误？
+19:05 U4405: 有没有大佬帮一下
+19:39 U5222: /gift_for_persian_people；/gift_for_persian_people；/gift_for_persian_people
+19:53 U4802: /gift_for_persian_people；/gift_for_persian_people
+19:56 U7434: Mac端的geph版本有没有arm版的，现在是Intel86版本
+20:02 U7467: 你不能用加拿大这种移民国家的情况分析日本这个民族国家。日本人根本不把外来移民当日本自己人看，如果只有中国人融入不了那可能是中国人的问题，问题是韩国人越南人印尼人印度人就没有一个能融入的了的啊？
+         U5650: /gift_for_persian_people
+20:05 U7467: 东亚三国中间，最早由政府主导的仇恨教育，到底是什么国家干出来的，我暂且蒙在鼓里
+20:28 U4454: /gift_for_persian_people
+20:47 U7434: Mac端的geph版本有没有arm版的，现在是Intel86版本
+21:17 U2051: /gift_for_persian_people；/gift_for_persian_people
+21:18 U7549: 我也出现了，但好像是GUI挂了，但是后台进程没有挂
+21:20 U8670: 又在调整？
+21:43 U9235: کانال های تلگرامی کلاهبرداری می‌کنند ازشون نخر
+22:18 U9309: /gift_for_persian_people
+22:36 U2560: در صرافی ها کار نمیکنه
+22:38 U6863: 换其他平台注册试试
+22:40 U2560: در سیستم عامل آندروید صرافی mexc کار نمیکنه
+22:42 U6802: 你好管理员大大，我想问一下，为什么建议不要和微信一起用啊？
+22:45 U6802: 我今天刚在想要不要开收费的迷雾通。
+22:50 U4976: /gift_for_persian_people；/gift_for_persian_people
+23:09 U5449: 微信会扫描你手机装了什么APP然后上报阿SIR
+23:10 U6802: iOS一样？
+23:12 U5449: IOS好像是不能扫描安装了什么APP了。
