@@ -1,0 +1,8 @@
+00:02 U7481: 啊哈
+11:22 U4670: 电脑端怎么用不了了
+13:49 U0071: Something went wrong. Try to /relink your account.
+14:17 U2224: 为啥下载得越来越慢 本来500kbs就够慢了还慢慢掉到200kbs什么都不稳定只有减速是稳定的
+18:13 U4137: 新加坡节点总共几个呢？
+18:21 U7310: 网址登不上了
+19:35 U1763: 请教个问题，下载了x2rayn，但是是win7，提示运行core失败？这是因为不支持win7么？
+21:17 U0071: Something went wrong. Try to /relink your account.
