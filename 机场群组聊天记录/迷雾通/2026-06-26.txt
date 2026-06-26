@@ -1,0 +1,53 @@
+00:02 U5416: 迷雾通微信付不了了
+         U2755: 真的连不上
+00:03 U5416: 能不能更新一下呀，那个原有的付款方似乎被限制了
+01:23 U9644: 赞成再加两个国家的流媒体节点
+06:00 U9029: /gift_me_im_a_wise_moneky；/gift_me_im_a_wise_moneky；/gift_me_im_a_wise_moneky
+06:39 U3741: /gift_me_im_a_wise_moneky；/gift_me_im_a_wise_moneky
+08:36 U7814: from the persian channel.translation: does anybody knw why with vpin whatsapp's call dosen't connect? (translated the mistypos too)
+08:50 U3173: 有没支持安卓4.4系统的geph软件
+08:58 U6365: 网络档案馆
+09:34 U0993: nullchinchilla没有啊
+09:50 U9616: 有人可以分享mac 版的安装包？
+09:51 U9616: 找到镜像了
+10:03 U0708: 怎么桌面版连接这么慢，我开了 Pro 啊
+10:04 U2755: 我这也慢；老握不上手
+         U0708: 我说的不是速度；是连的很慢
+10:05 U0708: 每次都要连好久；还得看运气
+10:18 U8670: 没用上ipv6
+11:49 U8186: macos点进去闪退
+11:53 U5240: kobayashi，hentai！
+11:57 U5240: kobayashi！majiyabakune~
+12:14 U8186: macos点进去闪退 重启 或者清缓存 清配置 清残留进程 都没用
+12:27 U8186: 重装好了
+12:28 U8186: 我是连着的时候关机 然后就出现这个问题 但我后来都把进程和相关残留文件都清了试过 也不行 真不知道问题出在哪里；端口也没有别的东西占着
+12:45 U6863: 没有
+13:20 U6863: 如果你自己建服务器找旧版本下载可以去 https://GitHub.com/geph-offical
+14:20 U6743: /gift_me_im_a_wise_moneky；/gift_me_im_a_wise_Dariush；/gift_me_im_a_wise_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_wise_moneky；/gift_me_im_a_zolnori_Dariush
+14:21 U6743: /gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush
+14:26 U8670: 现在能设定缓存的大小了吗
+14:29 U2689: 慢了三个多月了。
+14:30 U2689: 不仅慢，还经常断线
+14:39 U0993: anywat_21092苹果手机有保留与不保留数据的卸载（重装），相当于其它系统的清理缓存与数据，macos 也是？
+14:42 U0993: anywat_21092启动前删除缓存，不删不舒服斯基
+14:48 U0993: anywat_21092启动前删除缓存，不删不舒服斯基
+14:49 U8670: 一定要限制使用中的上限
+20:07 U0517: چون مادرش جنده‌ست
+20:22 U5061: /gift_me_im_a_wise_moneky
+20:32 U5605: /gift_me_im_a_wise_moneky
+21:07 U8906: 我都用免费的不担心付款
+21:08 U8906: 主打一个白嫖不花钱😀
+         U3604: سلامکسی جایی برای خرید کانفیگ پایدار سراغ داره؟
+21:10 U8737: /gift_me_im_a_zolnori_Dariush；/gift_me_im_a_zolnori_Dariush
+21:16 U6863: 其实聊聊天，看144p视频完全够用，可能连接节点选择太少
+21:26 U8057: 我是根本连不上了
+21:27 U8057: 就从今年三月底开始
+21:31 U8670: 难搞
+21:32 U6863: 你大概率在内地
+21:33 U8670: 大约在冬季
+21:52 U8057: 是的，我就是在内地，连迷雾通这种最强破冰船都开始心有余而力不足了，可想而知墙有多高
+22:21 U9821: @nullchinchilla 大佬台湾怎么又送中了。
+22:38 U8906: 我在内地啥事没有 秒连接；是不是你人品不行
+         U8057: 哈哈哈，应该是的
+22:40 U8906: 我下载了超多vpn 就这个免费的最好用
+23:49 U0993: anywat_21092命令行产生的文件少一套且小一些
