@@ -1,0 +1,28 @@
+00:46 U7096: ok
+07:25 U1195: 我又不看什么4k视频，我连刷x的视频都加载不出来，别说清晰度了
+07:26 U1195: 上个月还行，虽然节点很多不稳定，但起码能用，这个月直接崩了，能用的节点很少，还非常卡
+08:35 U7814: 🤬🤬；👻👻；i wish telegram gived us free translation
+09:36 U7448: آفرین
+10:06 U6863: Package 'policykit-1' has no installation candidate出现 "has no installation candidate"，说明你的系统软件源完全拒绝识别旧版的 policykit-1（即使强行挂载了旧仓库，新版 APT 3.0 的安全防御策略依然会直接屏蔽掉这种过时的、有安全隐患的过渡包）。
+10:14 U6863: 降级依赖才能安装使用。
+11:06 U0481: 問一下管理者， pc端卸載了流氓軟件edge  geth就閃退用不了嗎？
+11:07 U0481: 點擊圖標閃一下就沒了。 重新安裝也沒有 。
+11:27 U0993: anywat_21092卸载了与系统框架相关的东东而闪退，试试：Win下清理迷雾通数据，删除文件夹C:\Users用户名\AppData\Roaming\EBWebView ？如仍不行，手动安装WebView2
+11:31 U0481: 手動下載WebView2  安裝不了，說已經存在，但是整個edge文件都被我清除了。
+11:32 U4504: 是的，是很卡，断断续续的
+11:33 U0993: anywat_21092edge 是 edgeWebView2 是 WebView2系统源在 C:\Program Files (x86)\Microsoft\EdgeWebView；anywat_21092WebView2  安裝不了：以管理员身份。。。
+11:34 U5449: 系统被精简了？；按理说原版WINDOWS不存在这些问题。
+11:42 U0481: 謝謝 解決了。；謝謝
+         U0993: anywat_21092手動下載WebView2  安裝不了，說已經存在：1、清理迷雾通的数据，删除文件夹C:\Users\ 用户名\AppData\Roaming\EBWebView2、不行，卸载再重装框架？
+11:43 U0481: 已經解決了，確實WebView2的問題，現在重新安裝之後  可以運行了。
+11:51 U5527: /gift；/gift
+12:05 U4454: /gift_me_im_a_wise_moneky
+12:46 U3239: 最近连接爽完了，永远拥护迷雾通
+13:11 U8896: 能安装到 OpenWrt 或通过 OpenClash 订阅吗？
+13:13 U5449: 1可以2可以，要有思路
+13:14 U8896: 有没有教程之类的
+15:12 U6863: 新版本？
+16:15 U0581: /gift
+16:36 U3350: 这～🤣
+23:07 U6889: 什么时候能有更多节点呢？
+23:39 U4458: /gift
